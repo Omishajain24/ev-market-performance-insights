@@ -1,0 +1,601 @@
+Record_ID,Registration_Date,Registration_Year,Registration_Month,State,City,County,Postal_Code,Legislative_District,Make,Model,Model_Year,EV_Type,Electric_Range_Miles,Base_MSRP_USD,CAFV_Eligibility,Vehicle_Count
+EV0001,2020-03-01,2020,3,Washington,Bothell,Snohomish,98011,1,Nissan,Leaf,2017,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0002,2018-04-01,2018,4,Washington,Tacoma,Pierce,98402,27,Volvo,XC40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),22,53990,Unknown,1
+EV0003,2026-04-01,2026,4,Washington,Olympia,Thurston,98501,22,Volkswagen,ID.4,2025,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0004,2023-06-01,2023,6,Washington,Vancouver,Clark,98660,49,BMW,i4,2016,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0005,2020-06-01,2020,6,Washington,Everett,Snohomish,98201,38,Ford,F-150 Lightning,2020,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0006,2022-07-01,2022,7,Washington,Bellevue,King,98004,48,BMW,i4,2022,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0007,2025-01-01,2025,1,Washington,Renton,King,98057,11,BMW,iX,2025,Battery Electric Vehicle (BEV),305,87100,Eligible,1
+EV0008,2022-08-01,2022,8,Washington,Renton,King,98057,11,BMW,i4,2020,Plug-in Hybrid Electric Vehicle (PHEV),26,52100,Not Eligible,1
+EV0009,2025-12-01,2025,12,Washington,Renton,King,98057,11,Chevrolet,Equinox EV,2024,Battery Electric Vehicle (BEV),319,34995,Unknown,1
+EV0010,2019-08-01,2019,8,Washington,Spokane,Spokane,99201,3,Nissan,Leaf,2017,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0011,2017-06-01,2017,6,Washington,Spokane,Spokane,99201,3,Volvo,XC40 Recharge,2017,Plug-in Hybrid Electric Vehicle (PHEV),23,53990,Not Eligible,1
+EV0012,2026-04-01,2026,4,Washington,Renton,King,98057,11,Nissan,Leaf,2025,Plug-in Hybrid Electric Vehicle (PHEV),56,28140,Not Eligible,1
+EV0013,2020-12-01,2020,12,Washington,Kirkland,King,98033,45,Kia,Niro EV,2016,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0014,2022-03-01,2022,3,Washington,Kirkland,King,98033,45,BMW,iX,2019,Plug-in Hybrid Electric Vehicle (PHEV),45,87100,Not Eligible,1
+EV0015,2024-11-01,2024,11,Washington,Spokane,Spokane,99201,3,Nissan,Leaf,2024,Plug-in Hybrid Electric Vehicle (PHEV),29,28140,Unknown,1
+EV0016,2025-05-01,2025,5,Washington,Kirkland,King,98033,45,Nissan,Ariya,2021,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0017,2020-05-01,2020,5,Washington,Spokane,Spokane,99201,3,Nissan,Ariya,2019,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0018,2023-09-01,2023,9,Washington,Bellevue,King,98004,48,Toyota,Prius Prime,2022,Plug-in Hybrid Electric Vehicle (PHEV),36,32975,Unknown,1
+EV0019,2026-09-01,2026,9,Washington,Kirkland,King,98033,45,BMW,i4,2026,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0020,2022-05-01,2022,5,Washington,Tacoma,Pierce,98402,27,Volkswagen,e-Golf,2015,Battery Electric Vehicle (BEV),125,31995,Eligible,1
+EV0021,2021-09-01,2021,9,Washington,Redmond,King,98052,45,Ford,Mustang Mach-E,2021,Battery Electric Vehicle (BEV),312,39995,Eligible,1
+EV0022,2021-09-01,2021,9,Washington,Bothell,Snohomish,98011,1,Toyota,Prius Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),58,32975,Unknown,1
+EV0023,2026-06-01,2026,6,Washington,Olympia,Thurston,98501,22,Ford,F-150 Lightning,2024,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0024,2019-10-01,2019,10,Washington,Kirkland,King,98033,45,Toyota,Prius Prime,2019,Plug-in Hybrid Electric Vehicle (PHEV),24,32975,Eligible,1
+EV0025,2025-04-01,2025,4,Washington,Bellevue,King,98004,48,Volkswagen,ID.4,2025,Battery Electric Vehicle (BEV),275,38995,Eligible,1
+EV0026,2025-04-01,2025,4,Washington,Kirkland,King,98033,45,Hyundai,IONIQ 5,2018,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0027,2024-04-01,2024,4,Washington,Bellevue,King,98004,48,Volkswagen,e-Golf,2021,Battery Electric Vehicle (BEV),125,31995,Eligible,1
+EV0028,2026-01-01,2026,1,Washington,Renton,King,98057,11,Kia,Niro EV,2021,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0029,2020-04-01,2020,4,Washington,Tacoma,Pierce,98402,27,Nissan,Leaf,2019,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0030,2025-04-01,2025,4,Washington,Bellevue,King,98004,48,Volvo,C40 Recharge,2018,Plug-in Hybrid Electric Vehicle (PHEV),31,55300,Not Eligible,1
+EV0031,2018-04-01,2018,4,Washington,Redmond,King,98052,45,Volvo,XC40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),54,53990,Not Eligible,1
+EV0032,2019-07-01,2019,7,Washington,Seattle,King,98101,11,Toyota,RAV4 Prime,2014,Plug-in Hybrid Electric Vehicle (PHEV),45,43865,Not Eligible,1
+EV0033,2026-03-01,2026,3,Washington,Tacoma,Pierce,98402,27,BMW,iX,2025,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0034,2022-12-01,2022,12,Washington,Everett,Snohomish,98201,38,Ford,Mustang Mach-E,2022,Battery Electric Vehicle (BEV),312,39995,Eligible,1
+EV0035,2023-01-01,2023,1,Washington,Kirkland,King,98033,45,Tesla,Model S,2022,Battery Electric Vehicle (BEV),348,74990,Eligible,1
+EV0036,2024-07-01,2024,7,Washington,Bellevue,King,98004,48,Chevrolet,Bolt EV,2024,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0037,2025-10-01,2025,10,Washington,Bellingham,Whatcom,98225,42,Ford,Mustang Mach-E,2020,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0038,2026-04-01,2026,4,Washington,Vancouver,Clark,98660,49,Hyundai,Kona Electric,2025,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0039,2026-01-01,2026,1,Washington,Olympia,Thurston,98501,22,Chevrolet,Equinox EV,2026,Battery Electric Vehicle (BEV),319,34995,Unknown,1
+EV0040,2025-05-01,2025,5,Washington,Redmond,King,98052,45,Volkswagen,ID.4,2017,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0041,2024-09-01,2024,9,Washington,Bothell,Snohomish,98011,1,Nissan,Leaf,2016,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0042,2024-11-01,2024,11,Washington,Bellevue,King,98004,48,Volkswagen,ID.4,2022,Battery Electric Vehicle (BEV),275,38995,Eligible,1
+EV0043,2021-05-01,2021,5,Washington,Bellingham,Whatcom,98225,42,BMW,i4,2016,Plug-in Hybrid Electric Vehicle (PHEV),55,52100,Eligible,1
+EV0044,2026-08-01,2026,8,Washington,Vancouver,Clark,98660,49,Hyundai,IONIQ 5,2018,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0045,2022-03-01,2022,3,Washington,Renton,King,98057,11,Nissan,Ariya,2014,Plug-in Hybrid Electric Vehicle (PHEV),22,39990,Not Eligible,1
+EV0046,2024-01-01,2024,1,Washington,Bellevue,King,98004,48,Chevrolet,Equinox EV,2020,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0047,2023-07-01,2023,7,Washington,Redmond,King,98052,45,Chevrolet,Bolt EV,2022,Plug-in Hybrid Electric Vehicle (PHEV),57,26500,Eligible,1
+EV0048,2022-11-01,2022,11,Washington,Tacoma,Pierce,98402,27,BMW,iX,2019,Plug-in Hybrid Electric Vehicle (PHEV),22,87100,Unknown,1
+EV0049,2024-04-01,2024,4,Washington,Redmond,King,98052,45,Nissan,Ariya,2023,Plug-in Hybrid Electric Vehicle (PHEV),46,39990,Eligible,1
+EV0050,2025-11-01,2025,11,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2019,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0051,2026-01-01,2026,1,Washington,Olympia,Thurston,98501,22,BMW,i4,2020,Plug-in Hybrid Electric Vehicle (PHEV),26,52100,Eligible,1
+EV0052,2026-04-01,2026,4,Washington,Seattle,King,98101,11,Ford,F-150 Lightning,2026,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0053,2021-06-01,2021,6,Washington,Renton,King,98057,11,Ford,F-150 Lightning,2015,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0054,2020-10-01,2020,10,Washington,Vancouver,Clark,98660,49,Kia,Niro EV,2018,Plug-in Hybrid Electric Vehicle (PHEV),27,39800,Eligible,1
+EV0055,2026-07-01,2026,7,Washington,Bellingham,Whatcom,98225,42,Nissan,Ariya,2026,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0056,2018-12-01,2018,12,Washington,Spokane,Spokane,99201,3,Nissan,Ariya,2018,Plug-in Hybrid Electric Vehicle (PHEV),32,39990,Eligible,1
+EV0057,2025-10-01,2025,10,Washington,Everett,Snohomish,98201,38,Volvo,XC40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),24,53990,Unknown,1
+EV0058,2025-06-01,2025,6,Washington,Spokane,Spokane,99201,3,Nissan,Ariya,2024,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0059,2025-11-01,2025,11,Washington,Bothell,Snohomish,98011,1,BMW,i4,2024,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0060,2021-05-01,2021,5,Washington,Tacoma,Pierce,98402,27,Volkswagen,e-Golf,2014,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0061,2026-04-01,2026,4,Washington,Kirkland,King,98033,45,Volkswagen,e-Golf,2021,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0062,2026-10-01,2026,10,Washington,Everett,Snohomish,98201,38,Chevrolet,Bolt EV,2024,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0063,2019-01-01,2019,1,Washington,Seattle,King,98101,11,Ford,F-150 Lightning,2017,Battery Electric Vehicle (BEV),240,49995,Eligible,1
+EV0064,2024-12-01,2024,12,Washington,Bothell,Snohomish,98011,1,Toyota,Prius Prime,2023,Plug-in Hybrid Electric Vehicle (PHEV),60,32975,Not Eligible,1
+EV0065,2026-07-01,2026,7,Washington,Tacoma,Pierce,98402,27,Toyota,RAV4 Prime,2026,Plug-in Hybrid Electric Vehicle (PHEV),20,43865,Eligible,1
+EV0066,2024-03-01,2024,3,Washington,Olympia,Thurston,98501,22,Volvo,C40 Recharge,2015,Plug-in Hybrid Electric Vehicle (PHEV),35,55300,Unknown,1
+EV0067,2026-09-01,2026,9,Washington,Olympia,Thurston,98501,22,Volvo,C40 Recharge,2025,Plug-in Hybrid Electric Vehicle (PHEV),59,55300,Eligible,1
+EV0068,2025-09-01,2025,9,Washington,Olympia,Thurston,98501,22,Toyota,RAV4 Prime,2024,Plug-in Hybrid Electric Vehicle (PHEV),35,43865,Unknown,1
+EV0069,2026-04-01,2026,4,Washington,Vancouver,Clark,98660,49,Ford,F-150 Lightning,2025,Battery Electric Vehicle (BEV),240,49995,Not Eligible,1
+EV0070,2023-12-01,2023,12,Washington,Redmond,King,98052,45,Hyundai,IONIQ 5,2017,Battery Electric Vehicle (BEV),303,41800,Unknown,1
+EV0071,2026-07-01,2026,7,Washington,Seattle,King,98101,11,Ford,Mustang Mach-E,2019,Battery Electric Vehicle (BEV),312,39995,Eligible,1
+EV0072,2025-10-01,2025,10,Washington,Spokane,Spokane,99201,3,Kia,Niro EV,2025,Plug-in Hybrid Electric Vehicle (PHEV),57,39800,Not Eligible,1
+EV0073,2026-07-01,2026,7,Washington,Kirkland,King,98033,45,Tesla,Model Y,2020,Battery Electric Vehicle (BEV),330,44990,Unknown,1
+EV0074,2023-01-01,2023,1,Washington,Spokane,Spokane,99201,3,Volvo,XC40 Recharge,2020,Plug-in Hybrid Electric Vehicle (PHEV),37,53990,Not Eligible,1
+EV0075,2023-07-01,2023,7,Washington,Bellingham,Whatcom,98225,42,Kia,EV6,2023,Plug-in Hybrid Electric Vehicle (PHEV),28,42900,Unknown,1
+EV0076,2024-03-01,2024,3,Washington,Seattle,King,98101,11,Tesla,Model 3,2016,Battery Electric Vehicle (BEV),272,38990,Not Eligible,1
+EV0077,2024-07-01,2024,7,Washington,Vancouver,Clark,98660,49,Kia,Niro EV,2019,Battery Electric Vehicle (BEV),253,39800,Not Eligible,1
+EV0078,2025-06-01,2025,6,Washington,Tacoma,Pierce,98402,27,BMW,i4,2025,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0079,2020-01-01,2020,1,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2017,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0080,2026-04-01,2026,4,Washington,Olympia,Thurston,98501,22,Ford,Mustang Mach-E,2015,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0081,2023-03-01,2023,3,Washington,Vancouver,Clark,98660,49,BMW,iX,2023,Battery Electric Vehicle (BEV),305,87100,Eligible,1
+EV0082,2025-07-01,2025,7,Washington,Bothell,Snohomish,98011,1,Volkswagen,ID.4,2024,Plug-in Hybrid Electric Vehicle (PHEV),56,38995,Eligible,1
+EV0083,2026-11-01,2026,11,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2026,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0084,2025-06-01,2025,6,Washington,Bellevue,King,98004,48,Volkswagen,ID.4,2020,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0085,2023-06-01,2023,6,Washington,Renton,King,98057,11,Hyundai,IONIQ 5,2015,Plug-in Hybrid Electric Vehicle (PHEV),51,41800,Not Eligible,1
+EV0086,2024-10-01,2024,10,Washington,Kirkland,King,98033,45,Chevrolet,Equinox EV,2022,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0087,2022-02-01,2022,2,Washington,Vancouver,Clark,98660,49,Toyota,RAV4 Prime,2019,Battery Electric Vehicle (BEV),42,43865,Not Eligible,1
+EV0088,2025-06-01,2025,6,Washington,Seattle,King,98101,11,Ford,F-150 Lightning,2024,Battery Electric Vehicle (BEV),240,49995,Not Eligible,1
+EV0089,2023-06-01,2023,6,Washington,Vancouver,Clark,98660,49,Hyundai,IONIQ 5,2019,Battery Electric Vehicle (BEV),303,41800,Unknown,1
+EV0090,2018-04-01,2018,4,Washington,Bothell,Snohomish,98011,1,BMW,i4,2017,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0091,2024-01-01,2024,1,Washington,Bellevue,King,98004,48,Toyota,Prius Prime,2021,Battery Electric Vehicle (BEV),44,32975,Not Eligible,1
+EV0092,2023-08-01,2023,8,Washington,Kirkland,King,98033,45,Ford,F-150 Lightning,2018,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0093,2024-12-01,2024,12,Washington,Olympia,Thurston,98501,22,Hyundai,Kona Electric,2019,Plug-in Hybrid Electric Vehicle (PHEV),55,32500,Not Eligible,1
+EV0094,2025-06-01,2025,6,Washington,Bellevue,King,98004,48,BMW,iX,2025,Battery Electric Vehicle (BEV),305,87100,Unknown,1
+EV0095,2026-10-01,2026,10,Washington,Vancouver,Clark,98660,49,Volvo,XC40 Recharge,2018,Plug-in Hybrid Electric Vehicle (PHEV),50,53990,Eligible,1
+EV0096,2021-01-01,2021,1,Washington,Bothell,Snohomish,98011,1,Ford,F-150 Lightning,2016,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0097,2025-05-01,2025,5,Washington,Bothell,Snohomish,98011,1,Chevrolet,Equinox EV,2014,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0098,2024-08-01,2024,8,Washington,Everett,Snohomish,98201,38,Toyota,Prius Prime,2021,Battery Electric Vehicle (BEV),44,32975,Eligible,1
+EV0099,2018-07-01,2018,7,Washington,Olympia,Thurston,98501,22,Tesla,Model Y,2015,Plug-in Hybrid Electric Vehicle (PHEV),50,44990,Eligible,1
+EV0100,2026-02-01,2026,2,Washington,Tacoma,Pierce,98402,27,Volkswagen,ID.4,2026,Battery Electric Vehicle (BEV),275,38995,Eligible,1
+EV0101,2025-07-01,2025,7,Washington,Olympia,Thurston,98501,22,Volvo,C40 Recharge,2017,Plug-in Hybrid Electric Vehicle (PHEV),59,55300,Not Eligible,1
+EV0102,2023-10-01,2023,10,Washington,Bothell,Snohomish,98011,1,BMW,iX,2023,Battery Electric Vehicle (BEV),305,87100,Eligible,1
+EV0103,2019-04-01,2019,4,Washington,Redmond,King,98052,45,Ford,Mustang Mach-E,2015,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0104,2026-10-01,2026,10,Washington,Olympia,Thurston,98501,22,Nissan,Leaf,2021,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0105,2025-02-01,2025,2,Washington,Renton,King,98057,11,Tesla,Model 3,2018,Battery Electric Vehicle (BEV),272,38990,Eligible,1
+EV0106,2023-11-01,2023,11,Washington,Redmond,King,98052,45,BMW,i4,2022,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0107,2026-10-01,2026,10,Washington,Bothell,Snohomish,98011,1,Chevrolet,Bolt EV,2026,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0108,2026-12-01,2026,12,Washington,Spokane,Spokane,99201,3,BMW,iX,2025,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0109,2023-12-01,2023,12,Washington,Everett,Snohomish,98201,38,Volvo,C40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),58,55300,Unknown,1
+EV0110,2026-10-01,2026,10,Washington,Seattle,King,98101,11,BMW,i4,2024,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0111,2024-09-01,2024,9,Washington,Renton,King,98057,11,BMW,i4,2016,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0112,2025-02-01,2025,2,Washington,Olympia,Thurston,98501,22,BMW,i4,2024,Plug-in Hybrid Electric Vehicle (PHEV),47,52100,Not Eligible,1
+EV0113,2019-06-01,2019,6,Washington,Spokane,Spokane,99201,3,Kia,Niro EV,2015,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0114,2026-08-01,2026,8,Washington,Bellevue,King,98004,48,Toyota,RAV4 Prime,2026,Battery Electric Vehicle (BEV),42,43865,Not Eligible,1
+EV0115,2026-09-01,2026,9,Washington,Seattle,King,98101,11,BMW,iX,2026,Battery Electric Vehicle (BEV),305,87100,Unknown,1
+EV0116,2024-10-01,2024,10,Washington,Olympia,Thurston,98501,22,Volvo,C40 Recharge,2022,Plug-in Hybrid Electric Vehicle (PHEV),32,55300,Unknown,1
+EV0117,2021-08-01,2021,8,Washington,Bothell,Snohomish,98011,1,Toyota,Prius Prime,2016,Plug-in Hybrid Electric Vehicle (PHEV),55,32975,Not Eligible,1
+EV0118,2026-12-01,2026,12,Washington,Redmond,King,98052,45,Nissan,Leaf,2026,Plug-in Hybrid Electric Vehicle (PHEV),58,28140,Not Eligible,1
+EV0119,2018-08-01,2018,8,Washington,Bellevue,King,98004,48,Volvo,XC40 Recharge,2017,Plug-in Hybrid Electric Vehicle (PHEV),25,53990,Unknown,1
+EV0120,2024-07-01,2024,7,Washington,Olympia,Thurston,98501,22,Chevrolet,Equinox EV,2022,Plug-in Hybrid Electric Vehicle (PHEV),38,34995,Not Eligible,1
+EV0121,2021-10-01,2021,10,Washington,Kirkland,King,98033,45,Ford,F-150 Lightning,2020,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0122,2026-06-01,2026,6,Washington,Kirkland,King,98033,45,Chevrolet,Bolt EV,2026,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0123,2026-03-01,2026,3,Washington,Olympia,Thurston,98501,22,Tesla,Model Y,2023,Battery Electric Vehicle (BEV),330,44990,Unknown,1
+EV0124,2023-06-01,2023,6,Washington,Tacoma,Pierce,98402,27,Toyota,RAV4 Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),54,43865,Unknown,1
+EV0125,2026-01-01,2026,1,Washington,Everett,Snohomish,98201,38,Ford,F-150 Lightning,2026,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0126,2021-03-01,2021,3,Washington,Kirkland,King,98033,45,Toyota,RAV4 Prime,2021,Plug-in Hybrid Electric Vehicle (PHEV),29,43865,Unknown,1
+EV0127,2025-08-01,2025,8,Washington,Seattle,King,98101,11,Hyundai,IONIQ 5,2015,Plug-in Hybrid Electric Vehicle (PHEV),48,41800,Unknown,1
+EV0128,2024-05-01,2024,5,Washington,Everett,Snohomish,98201,38,Chevrolet,Equinox EV,2015,Plug-in Hybrid Electric Vehicle (PHEV),29,34995,Unknown,1
+EV0129,2022-11-01,2022,11,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2020,Plug-in Hybrid Electric Vehicle (PHEV),54,42900,Not Eligible,1
+EV0130,2026-05-01,2026,5,Washington,Tacoma,Pierce,98402,27,Volvo,XC40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),35,53990,Unknown,1
+EV0131,2025-08-01,2025,8,Washington,Redmond,King,98052,45,Nissan,Ariya,2025,Plug-in Hybrid Electric Vehicle (PHEV),60,39990,Unknown,1
+EV0132,2026-05-01,2026,5,Washington,Everett,Snohomish,98201,38,BMW,i4,2026,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0133,2024-11-01,2024,11,Washington,Redmond,King,98052,45,Kia,EV6,2020,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0134,2024-11-01,2024,11,Washington,Tacoma,Pierce,98402,27,Chevrolet,Bolt EV,2020,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0135,2025-08-01,2025,8,Washington,Vancouver,Clark,98660,49,Volkswagen,ID.4,2024,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0136,2018-08-01,2018,8,Washington,Everett,Snohomish,98201,38,Tesla,Model Y,2016,Plug-in Hybrid Electric Vehicle (PHEV),54,44990,Unknown,1
+EV0137,2023-04-01,2023,4,Washington,Spokane,Spokane,99201,3,BMW,iX,2021,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0138,2023-12-01,2023,12,Washington,Vancouver,Clark,98660,49,Nissan,Leaf,2019,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0139,2026-01-01,2026,1,Washington,Bellingham,Whatcom,98225,42,Kia,Niro EV,2024,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0140,2026-04-01,2026,4,Washington,Renton,King,98057,11,Toyota,RAV4 Prime,2026,Battery Electric Vehicle (BEV),42,43865,Eligible,1
+EV0141,2025-11-01,2025,11,Washington,Bellevue,King,98004,48,Volkswagen,e-Golf,2025,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0142,2025-12-01,2025,12,Washington,Redmond,King,98052,45,Tesla,Model Y,2023,Plug-in Hybrid Electric Vehicle (PHEV),22,44990,Eligible,1
+EV0143,2020-03-01,2020,3,Washington,Kirkland,King,98033,45,BMW,iX,2016,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0144,2023-12-01,2023,12,Washington,Everett,Snohomish,98201,38,Volvo,C40 Recharge,2021,Battery Electric Vehicle (BEV),226,55300,Eligible,1
+EV0145,2026-11-01,2026,11,Washington,Spokane,Spokane,99201,3,Toyota,Prius Prime,2024,Plug-in Hybrid Electric Vehicle (PHEV),34,32975,Unknown,1
+EV0146,2026-02-01,2026,2,Washington,Olympia,Thurston,98501,22,Hyundai,IONIQ 5,2018,Plug-in Hybrid Electric Vehicle (PHEV),20,41800,Not Eligible,1
+EV0147,2020-08-01,2020,8,Washington,Seattle,King,98101,11,BMW,iX,2015,Plug-in Hybrid Electric Vehicle (PHEV),43,87100,Unknown,1
+EV0148,2024-12-01,2024,12,Washington,Vancouver,Clark,98660,49,Volvo,C40 Recharge,2015,Battery Electric Vehicle (BEV),226,55300,Unknown,1
+EV0149,2021-08-01,2021,8,Washington,Bellevue,King,98004,48,Kia,EV6,2014,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0150,2025-10-01,2025,10,Washington,Bothell,Snohomish,98011,1,Ford,Mustang Mach-E,2019,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0151,2025-07-01,2025,7,Washington,Vancouver,Clark,98660,49,Chevrolet,Equinox EV,2021,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0152,2022-02-01,2022,2,Washington,Renton,King,98057,11,Hyundai,IONIQ 5,2017,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0153,2018-08-01,2018,8,Washington,Bellevue,King,98004,48,Volvo,C40 Recharge,2017,Plug-in Hybrid Electric Vehicle (PHEV),37,55300,Unknown,1
+EV0154,2022-03-01,2022,3,Washington,Bellingham,Whatcom,98225,42,Ford,Mustang Mach-E,2019,Battery Electric Vehicle (BEV),312,39995,Eligible,1
+EV0155,2022-03-01,2022,3,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2017,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0156,2020-02-01,2020,2,Washington,Renton,King,98057,11,BMW,i4,2018,Plug-in Hybrid Electric Vehicle (PHEV),54,52100,Eligible,1
+EV0157,2026-10-01,2026,10,Washington,Everett,Snohomish,98201,38,Chevrolet,Bolt EV,2026,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0158,2026-09-01,2026,9,Washington,Bellevue,King,98004,48,Chevrolet,Equinox EV,2025,Battery Electric Vehicle (BEV),319,34995,Unknown,1
+EV0159,2020-08-01,2020,8,Washington,Kirkland,King,98033,45,Nissan,Ariya,2019,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0160,2026-05-01,2026,5,Washington,Olympia,Thurston,98501,22,Volkswagen,ID.4,2024,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0161,2025-02-01,2025,2,Washington,Olympia,Thurston,98501,22,Tesla,Model 3,2020,Plug-in Hybrid Electric Vehicle (PHEV),45,38990,Unknown,1
+EV0162,2018-03-01,2018,3,Washington,Vancouver,Clark,98660,49,Toyota,Prius Prime,2016,Battery Electric Vehicle (BEV),44,32975,Unknown,1
+EV0163,2025-08-01,2025,8,Washington,Kirkland,King,98033,45,Volkswagen,e-Golf,2023,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0164,2026-09-01,2026,9,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2024,Plug-in Hybrid Electric Vehicle (PHEV),27,42900,Eligible,1
+EV0165,2026-07-01,2026,7,Washington,Spokane,Spokane,99201,3,Kia,Niro EV,2019,Plug-in Hybrid Electric Vehicle (PHEV),46,39800,Unknown,1
+EV0166,2025-06-01,2025,6,Washington,Redmond,King,98052,45,Nissan,Ariya,2024,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0167,2023-02-01,2023,2,Washington,Bothell,Snohomish,98011,1,Toyota,Prius Prime,2015,Plug-in Hybrid Electric Vehicle (PHEV),25,32975,Unknown,1
+EV0168,2025-11-01,2025,11,Washington,Bellevue,King,98004,48,Hyundai,IONIQ 5,2023,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0169,2022-06-01,2022,6,Washington,Bellevue,King,98004,48,Hyundai,Kona Electric,2018,Plug-in Hybrid Electric Vehicle (PHEV),23,32500,Unknown,1
+EV0170,2018-06-01,2018,6,Washington,Kirkland,King,98033,45,Volvo,XC40 Recharge,2017,Plug-in Hybrid Electric Vehicle (PHEV),50,53990,Not Eligible,1
+EV0171,2026-09-01,2026,9,Washington,Bellingham,Whatcom,98225,42,Nissan,Ariya,2026,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0172,2019-05-01,2019,5,Washington,Bothell,Snohomish,98011,1,Volvo,XC40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),37,53990,Not Eligible,1
+EV0173,2026-11-01,2026,11,Washington,Spokane,Spokane,99201,3,Hyundai,Kona Electric,2016,Battery Electric Vehicle (BEV),261,32500,Eligible,1
+EV0174,2023-07-01,2023,7,Washington,Spokane,Spokane,99201,3,Chevrolet,Bolt EV,2022,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0175,2026-10-01,2026,10,Washington,Bellingham,Whatcom,98225,42,Hyundai,IONIQ 5,2025,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0176,2023-11-01,2023,11,Washington,Bellevue,King,98004,48,Tesla,Model 3,2023,Battery Electric Vehicle (BEV),272,38990,Not Eligible,1
+EV0177,2022-04-01,2022,4,Washington,Kirkland,King,98033,45,Toyota,RAV4 Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),48,43865,Eligible,1
+EV0178,2026-10-01,2026,10,Washington,Olympia,Thurston,98501,22,Hyundai,Kona Electric,2024,Battery Electric Vehicle (BEV),261,32500,Unknown,1
+EV0179,2023-01-01,2023,1,Washington,Tacoma,Pierce,98402,27,BMW,i4,2023,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0180,2023-02-01,2023,2,Washington,Seattle,King,98101,11,Ford,Mustang Mach-E,2018,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0181,2023-09-01,2023,9,Washington,Kirkland,King,98033,45,Kia,EV6,2022,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0182,2025-07-01,2025,7,Washington,Seattle,King,98101,11,Hyundai,IONIQ 5,2025,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0183,2026-12-01,2026,12,Washington,Renton,King,98057,11,Nissan,Ariya,2023,Battery Electric Vehicle (BEV),216,39990,Not Eligible,1
+EV0184,2021-10-01,2021,10,Washington,Olympia,Thurston,98501,22,BMW,i4,2019,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0185,2020-07-01,2020,7,Washington,Bellingham,Whatcom,98225,42,Hyundai,IONIQ 5,2015,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0186,2026-04-01,2026,4,Washington,Everett,Snohomish,98201,38,Volvo,XC40 Recharge,2025,Plug-in Hybrid Electric Vehicle (PHEV),39,53990,Eligible,1
+EV0187,2022-06-01,2022,6,Washington,Bothell,Snohomish,98011,1,Nissan,Leaf,2017,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0188,2021-03-01,2021,3,Washington,Bellingham,Whatcom,98225,42,Chevrolet,Bolt EV,2018,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0189,2024-10-01,2024,10,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2021,Plug-in Hybrid Electric Vehicle (PHEV),60,28140,Not Eligible,1
+EV0190,2021-08-01,2021,8,Washington,Bellevue,King,98004,48,Volkswagen,e-Golf,2019,Plug-in Hybrid Electric Vehicle (PHEV),60,31995,Not Eligible,1
+EV0191,2020-05-01,2020,5,Washington,Olympia,Thurston,98501,22,Toyota,RAV4 Prime,2019,Battery Electric Vehicle (BEV),42,43865,Not Eligible,1
+EV0192,2019-11-01,2019,11,Washington,Bellevue,King,98004,48,Tesla,Model 3,2018,Battery Electric Vehicle (BEV),272,38990,Unknown,1
+EV0193,2022-08-01,2022,8,Washington,Bellingham,Whatcom,98225,42,Volkswagen,e-Golf,2022,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0194,2023-01-01,2023,1,Washington,Olympia,Thurston,98501,22,Ford,F-150 Lightning,2022,Battery Electric Vehicle (BEV),240,49995,Eligible,1
+EV0195,2017-04-01,2017,4,Washington,Bothell,Snohomish,98011,1,Hyundai,IONIQ 5,2016,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0196,2023-06-01,2023,6,Washington,Renton,King,98057,11,Toyota,Prius Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),38,32975,Unknown,1
+EV0197,2022-02-01,2022,2,Washington,Kirkland,King,98033,45,Tesla,Model S,2015,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0198,2026-03-01,2026,3,Washington,Everett,Snohomish,98201,38,Kia,Niro EV,2024,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0199,2026-11-01,2026,11,Washington,Spokane,Spokane,99201,3,Volkswagen,ID.4,2024,Plug-in Hybrid Electric Vehicle (PHEV),39,38995,Eligible,1
+EV0200,2025-06-01,2025,6,Washington,Redmond,King,98052,45,Volkswagen,ID.4,2020,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0201,2024-01-01,2024,1,Washington,Everett,Snohomish,98201,38,Volvo,XC40 Recharge,2022,Plug-in Hybrid Electric Vehicle (PHEV),47,53990,Not Eligible,1
+EV0202,2026-04-01,2026,4,Washington,Tacoma,Pierce,98402,27,Chevrolet,Bolt EV,2026,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0203,2026-09-01,2026,9,Washington,Kirkland,King,98033,45,Chevrolet,Bolt EV,2026,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0204,2026-07-01,2026,7,Washington,Redmond,King,98052,45,Volvo,XC40 Recharge,2016,Plug-in Hybrid Electric Vehicle (PHEV),59,53990,Eligible,1
+EV0205,2023-06-01,2023,6,Washington,Renton,King,98057,11,Chevrolet,Bolt EV,2014,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0206,2026-04-01,2026,4,Washington,Kirkland,King,98033,45,Ford,F-150 Lightning,2026,Battery Electric Vehicle (BEV),240,49995,Eligible,1
+EV0207,2026-08-01,2026,8,Washington,Vancouver,Clark,98660,49,BMW,iX,2019,Plug-in Hybrid Electric Vehicle (PHEV),32,87100,Not Eligible,1
+EV0208,2021-01-01,2021,1,Washington,Renton,King,98057,11,Volvo,C40 Recharge,2016,Plug-in Hybrid Electric Vehicle (PHEV),58,55300,Not Eligible,1
+EV0209,2022-05-01,2022,5,Washington,Bellevue,King,98004,48,Hyundai,IONIQ 5,2022,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0210,2020-04-01,2020,4,Washington,Olympia,Thurston,98501,22,BMW,iX,2020,Plug-in Hybrid Electric Vehicle (PHEV),29,87100,Not Eligible,1
+EV0211,2024-04-01,2024,4,Washington,Spokane,Spokane,99201,3,Tesla,Model Y,2022,Battery Electric Vehicle (BEV),330,44990,Eligible,1
+EV0212,2022-03-01,2022,3,Washington,Redmond,King,98052,45,Hyundai,IONIQ 5,2015,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0213,2024-08-01,2024,8,Washington,Bellingham,Whatcom,98225,42,BMW,iX,2016,Battery Electric Vehicle (BEV),305,87100,Eligible,1
+EV0214,2025-12-01,2025,12,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2016,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0215,2021-02-01,2021,2,Washington,Seattle,King,98101,11,Kia,EV6,2017,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0216,2025-09-01,2025,9,Washington,Seattle,King,98101,11,Kia,Niro EV,2021,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0217,2026-06-01,2026,6,Washington,Tacoma,Pierce,98402,27,Volvo,XC40 Recharge,2014,Battery Electric Vehicle (BEV),223,53990,Unknown,1
+EV0218,2025-06-01,2025,6,Washington,Bellevue,King,98004,48,Kia,EV6,2015,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0219,2023-06-01,2023,6,Washington,Vancouver,Clark,98660,49,Volvo,XC40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),50,53990,Unknown,1
+EV0220,2018-10-01,2018,10,Washington,Bothell,Snohomish,98011,1,Tesla,Model Y,2017,Plug-in Hybrid Electric Vehicle (PHEV),42,44990,Not Eligible,1
+EV0221,2021-11-01,2021,11,Washington,Olympia,Thurston,98501,22,Chevrolet,Bolt EV,2019,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0222,2026-01-01,2026,1,Washington,Vancouver,Clark,98660,49,Toyota,Prius Prime,2026,Battery Electric Vehicle (BEV),44,32975,Eligible,1
+EV0223,2026-07-01,2026,7,Washington,Kirkland,King,98033,45,Tesla,Model 3,2018,Plug-in Hybrid Electric Vehicle (PHEV),40,38990,Not Eligible,1
+EV0224,2021-06-01,2021,6,Washington,Seattle,King,98101,11,BMW,i4,2017,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0225,2025-07-01,2025,7,Washington,Bothell,Snohomish,98011,1,Hyundai,Kona Electric,2019,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0226,2026-06-01,2026,6,Washington,Kirkland,King,98033,45,Kia,Niro EV,2025,Plug-in Hybrid Electric Vehicle (PHEV),51,39800,Not Eligible,1
+EV0227,2024-09-01,2024,9,Washington,Vancouver,Clark,98660,49,Nissan,Ariya,2023,Battery Electric Vehicle (BEV),216,39990,Not Eligible,1
+EV0228,2022-08-01,2022,8,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2018,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0229,2026-01-01,2026,1,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2019,Battery Electric Vehicle (BEV),310,42900,Not Eligible,1
+EV0230,2026-02-01,2026,2,Washington,Renton,King,98057,11,Volkswagen,e-Golf,2026,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0231,2025-01-01,2025,1,Washington,Redmond,King,98052,45,Kia,Niro EV,2025,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0232,2026-06-01,2026,6,Washington,Spokane,Spokane,99201,3,Toyota,Prius Prime,2026,Plug-in Hybrid Electric Vehicle (PHEV),35,32975,Unknown,1
+EV0233,2023-06-01,2023,6,Washington,Olympia,Thurston,98501,22,Tesla,Model S,2021,Battery Electric Vehicle (BEV),348,74990,Eligible,1
+EV0234,2022-11-01,2022,11,Washington,Vancouver,Clark,98660,49,Volkswagen,ID.4,2020,Battery Electric Vehicle (BEV),275,38995,Eligible,1
+EV0235,2025-07-01,2025,7,Washington,Kirkland,King,98033,45,Nissan,Leaf,2021,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0236,2026-05-01,2026,5,Washington,Bothell,Snohomish,98011,1,BMW,iX,2017,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0237,2024-03-01,2024,3,Washington,Bothell,Snohomish,98011,1,Ford,Mustang Mach-E,2015,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0238,2025-09-01,2025,9,Washington,Kirkland,King,98033,45,Nissan,Ariya,2025,Battery Electric Vehicle (BEV),216,39990,Not Eligible,1
+EV0239,2025-06-01,2025,6,Washington,Kirkland,King,98033,45,BMW,i4,2025,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0240,2026-01-01,2026,1,Washington,Everett,Snohomish,98201,38,Nissan,Leaf,2026,Plug-in Hybrid Electric Vehicle (PHEV),35,28140,Unknown,1
+EV0241,2023-10-01,2023,10,Washington,Bellevue,King,98004,48,Volkswagen,e-Golf,2022,Battery Electric Vehicle (BEV),125,31995,Eligible,1
+EV0242,2025-07-01,2025,7,Washington,Bellingham,Whatcom,98225,42,BMW,iX,2022,Plug-in Hybrid Electric Vehicle (PHEV),50,87100,Eligible,1
+EV0243,2024-11-01,2024,11,Washington,Kirkland,King,98033,45,Chevrolet,Equinox EV,2021,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0244,2023-09-01,2023,9,Washington,Seattle,King,98101,11,Chevrolet,Bolt EV,2016,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0245,2022-06-01,2022,6,Washington,Kirkland,King,98033,45,Volvo,XC40 Recharge,2019,Plug-in Hybrid Electric Vehicle (PHEV),30,53990,Not Eligible,1
+EV0246,2024-03-01,2024,3,Washington,Renton,King,98057,11,Nissan,Ariya,2022,Battery Electric Vehicle (BEV),216,39990,Not Eligible,1
+EV0247,2026-10-01,2026,10,Washington,Redmond,King,98052,45,Volkswagen,ID.4,2016,Battery Electric Vehicle (BEV),275,38995,Eligible,1
+EV0248,2017-02-01,2017,2,Washington,Seattle,King,98101,11,Volkswagen,e-Golf,2014,Plug-in Hybrid Electric Vehicle (PHEV),56,31995,Unknown,1
+EV0249,2026-10-01,2026,10,Washington,Renton,King,98057,11,Volkswagen,e-Golf,2026,Battery Electric Vehicle (BEV),125,31995,Eligible,1
+EV0250,2022-11-01,2022,11,Washington,Spokane,Spokane,99201,3,Toyota,RAV4 Prime,2021,Plug-in Hybrid Electric Vehicle (PHEV),39,43865,Not Eligible,1
+EV0251,2023-08-01,2023,8,Washington,Tacoma,Pierce,98402,27,Toyota,Prius Prime,2020,Battery Electric Vehicle (BEV),44,32975,Not Eligible,1
+EV0252,2026-12-01,2026,12,Washington,Everett,Snohomish,98201,38,Volkswagen,ID.4,2025,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0253,2022-04-01,2022,4,Washington,Olympia,Thurston,98501,22,Chevrolet,Equinox EV,2015,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0254,2017-05-01,2017,5,Washington,Spokane,Spokane,99201,3,BMW,iX,2015,Battery Electric Vehicle (BEV),305,87100,Unknown,1
+EV0255,2024-04-01,2024,4,Washington,Redmond,King,98052,45,Kia,EV6,2019,Plug-in Hybrid Electric Vehicle (PHEV),30,42900,Not Eligible,1
+EV0256,2021-02-01,2021,2,Washington,Spokane,Spokane,99201,3,Volvo,C40 Recharge,2021,Plug-in Hybrid Electric Vehicle (PHEV),39,55300,Unknown,1
+EV0257,2017-05-01,2017,5,Washington,Olympia,Thurston,98501,22,Toyota,Prius Prime,2014,Plug-in Hybrid Electric Vehicle (PHEV),42,32975,Unknown,1
+EV0258,2021-05-01,2021,5,Washington,Bothell,Snohomish,98011,1,Toyota,RAV4 Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),26,43865,Not Eligible,1
+EV0259,2026-09-01,2026,9,Washington,Tacoma,Pierce,98402,27,Kia,Niro EV,2014,Battery Electric Vehicle (BEV),253,39800,Not Eligible,1
+EV0260,2025-05-01,2025,5,Washington,Bellingham,Whatcom,98225,42,Volvo,C40 Recharge,2021,Plug-in Hybrid Electric Vehicle (PHEV),52,55300,Unknown,1
+EV0261,2023-06-01,2023,6,Washington,Everett,Snohomish,98201,38,Volkswagen,ID.4,2015,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0262,2025-09-01,2025,9,Washington,Seattle,King,98101,11,Hyundai,IONIQ 5,2022,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0263,2026-09-01,2026,9,Washington,Olympia,Thurston,98501,22,Tesla,Model 3,2026,Battery Electric Vehicle (BEV),272,38990,Eligible,1
+EV0264,2025-03-01,2025,3,Washington,Spokane,Spokane,99201,3,Volkswagen,ID.4,2023,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0265,2026-08-01,2026,8,Washington,Bothell,Snohomish,98011,1,BMW,iX,2022,Battery Electric Vehicle (BEV),305,87100,Unknown,1
+EV0266,2020-07-01,2020,7,Washington,Bellingham,Whatcom,98225,42,BMW,iX,2019,Plug-in Hybrid Electric Vehicle (PHEV),43,87100,Not Eligible,1
+EV0267,2026-10-01,2026,10,Washington,Tacoma,Pierce,98402,27,Tesla,Model S,2024,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0268,2026-07-01,2026,7,Washington,Redmond,King,98052,45,Tesla,Model S,2022,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0269,2025-04-01,2025,4,Washington,Seattle,King,98101,11,Ford,Mustang Mach-E,2025,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0270,2025-07-01,2025,7,Washington,Kirkland,King,98033,45,Hyundai,Kona Electric,2025,Battery Electric Vehicle (BEV),261,32500,Unknown,1
+EV0271,2024-11-01,2024,11,Washington,Olympia,Thurston,98501,22,Toyota,Prius Prime,2022,Battery Electric Vehicle (BEV),44,32975,Unknown,1
+EV0272,2024-09-01,2024,9,Washington,Everett,Snohomish,98201,38,Kia,Niro EV,2022,Plug-in Hybrid Electric Vehicle (PHEV),49,39800,Unknown,1
+EV0273,2021-09-01,2021,9,Washington,Vancouver,Clark,98660,49,BMW,iX,2017,Battery Electric Vehicle (BEV),305,87100,Eligible,1
+EV0274,2026-06-01,2026,6,Washington,Olympia,Thurston,98501,22,BMW,iX,2025,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0275,2026-07-01,2026,7,Washington,Spokane,Spokane,99201,3,Volvo,C40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),56,55300,Not Eligible,1
+EV0276,2025-06-01,2025,6,Washington,Olympia,Thurston,98501,22,Chevrolet,Equinox EV,2025,Battery Electric Vehicle (BEV),319,34995,Unknown,1
+EV0277,2024-09-01,2024,9,Washington,Bothell,Snohomish,98011,1,BMW,iX,2022,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0278,2024-04-01,2024,4,Washington,Seattle,King,98101,11,Chevrolet,Bolt EV,2023,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0279,2023-06-01,2023,6,Washington,Bothell,Snohomish,98011,1,Volvo,XC40 Recharge,2015,Plug-in Hybrid Electric Vehicle (PHEV),23,53990,Not Eligible,1
+EV0280,2023-07-01,2023,7,Washington,Renton,King,98057,11,Nissan,Leaf,2022,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0281,2018-02-01,2018,2,Washington,Renton,King,98057,11,Toyota,Prius Prime,2018,Battery Electric Vehicle (BEV),44,32975,Unknown,1
+EV0282,2026-03-01,2026,3,Washington,Seattle,King,98101,11,Ford,Mustang Mach-E,2020,Plug-in Hybrid Electric Vehicle (PHEV),31,39995,Not Eligible,1
+EV0283,2017-05-01,2017,5,Washington,Bellingham,Whatcom,98225,42,Toyota,Prius Prime,2014,Plug-in Hybrid Electric Vehicle (PHEV),38,32975,Unknown,1
+EV0284,2026-09-01,2026,9,Washington,Olympia,Thurston,98501,22,Nissan,Ariya,2024,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0285,2021-12-01,2021,12,Washington,Olympia,Thurston,98501,22,Volvo,C40 Recharge,2019,Plug-in Hybrid Electric Vehicle (PHEV),27,55300,Unknown,1
+EV0286,2023-10-01,2023,10,Washington,Renton,King,98057,11,BMW,i4,2019,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0287,2020-07-01,2020,7,Washington,Renton,King,98057,11,Chevrolet,Equinox EV,2019,Plug-in Hybrid Electric Vehicle (PHEV),52,34995,Eligible,1
+EV0288,2017-05-01,2017,5,Washington,Spokane,Spokane,99201,3,Chevrolet,Bolt EV,2017,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0289,2025-05-01,2025,5,Washington,Renton,King,98057,11,Toyota,RAV4 Prime,2025,Battery Electric Vehicle (BEV),42,43865,Not Eligible,1
+EV0290,2023-03-01,2023,3,Washington,Spokane,Spokane,99201,3,Ford,Mustang Mach-E,2021,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0291,2023-10-01,2023,10,Washington,Tacoma,Pierce,98402,27,Volvo,C40 Recharge,2018,Battery Electric Vehicle (BEV),226,55300,Eligible,1
+EV0292,2026-07-01,2026,7,Washington,Bothell,Snohomish,98011,1,Chevrolet,Equinox EV,2025,Battery Electric Vehicle (BEV),319,34995,Unknown,1
+EV0293,2023-09-01,2023,9,Washington,Olympia,Thurston,98501,22,Toyota,Prius Prime,2023,Battery Electric Vehicle (BEV),44,32975,Unknown,1
+EV0294,2025-09-01,2025,9,Washington,Tacoma,Pierce,98402,27,Hyundai,IONIQ 5,2014,Plug-in Hybrid Electric Vehicle (PHEV),27,41800,Unknown,1
+EV0295,2021-11-01,2021,11,Washington,Tacoma,Pierce,98402,27,Volvo,XC40 Recharge,2021,Plug-in Hybrid Electric Vehicle (PHEV),53,53990,Unknown,1
+EV0296,2025-01-01,2025,1,Washington,Olympia,Thurston,98501,22,Volkswagen,e-Golf,2022,Battery Electric Vehicle (BEV),125,31995,Eligible,1
+EV0297,2025-11-01,2025,11,Washington,Vancouver,Clark,98660,49,Volvo,C40 Recharge,2022,Plug-in Hybrid Electric Vehicle (PHEV),23,55300,Unknown,1
+EV0298,2020-10-01,2020,10,Washington,Bellevue,King,98004,48,Tesla,Model Y,2014,Battery Electric Vehicle (BEV),330,44990,Eligible,1
+EV0299,2022-02-01,2022,2,Washington,Olympia,Thurston,98501,22,Kia,Niro EV,2022,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0300,2023-06-01,2023,6,Washington,Spokane,Spokane,99201,3,BMW,iX,2016,Battery Electric Vehicle (BEV),305,87100,Not Eligible,1
+EV0301,2026-03-01,2026,3,Washington,Renton,King,98057,11,Kia,Niro EV,2024,Battery Electric Vehicle (BEV),253,39800,Not Eligible,1
+EV0302,2023-12-01,2023,12,Washington,Tacoma,Pierce,98402,27,Nissan,Leaf,2022,Plug-in Hybrid Electric Vehicle (PHEV),45,28140,Eligible,1
+EV0303,2026-09-01,2026,9,Washington,Spokane,Spokane,99201,3,Tesla,Model Y,2025,Battery Electric Vehicle (BEV),330,44990,Eligible,1
+EV0304,2021-12-01,2021,12,Washington,Bellevue,King,98004,48,Ford,F-150 Lightning,2018,Battery Electric Vehicle (BEV),240,49995,Eligible,1
+EV0305,2018-10-01,2018,10,Washington,Seattle,King,98101,11,Kia,EV6,2015,Battery Electric Vehicle (BEV),310,42900,Not Eligible,1
+EV0306,2023-08-01,2023,8,Washington,Tacoma,Pierce,98402,27,Volkswagen,ID.4,2014,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0307,2021-12-01,2021,12,Washington,Bellingham,Whatcom,98225,42,Ford,Mustang Mach-E,2018,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0308,2025-04-01,2025,4,Washington,Spokane,Spokane,99201,3,Volkswagen,e-Golf,2016,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0309,2024-11-01,2024,11,Washington,Renton,King,98057,11,BMW,i4,2023,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0310,2026-07-01,2026,7,Washington,Kirkland,King,98033,45,Volvo,C40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),42,55300,Not Eligible,1
+EV0311,2021-09-01,2021,9,Washington,Olympia,Thurston,98501,22,Kia,Niro EV,2020,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0312,2026-01-01,2026,1,Washington,Kirkland,King,98033,45,Ford,F-150 Lightning,2026,Plug-in Hybrid Electric Vehicle (PHEV),29,49995,Not Eligible,1
+EV0313,2021-06-01,2021,6,Washington,Renton,King,98057,11,Kia,EV6,2018,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0314,2021-07-01,2021,7,Washington,Renton,King,98057,11,Toyota,RAV4 Prime,2014,Plug-in Hybrid Electric Vehicle (PHEV),32,43865,Unknown,1
+EV0315,2026-08-01,2026,8,Washington,Tacoma,Pierce,98402,27,Volkswagen,ID.4,2026,Plug-in Hybrid Electric Vehicle (PHEV),32,38995,Not Eligible,1
+EV0316,2018-12-01,2018,12,Washington,Olympia,Thurston,98501,22,BMW,i4,2017,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0317,2025-06-01,2025,6,Washington,Vancouver,Clark,98660,49,Volkswagen,ID.4,2017,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0318,2025-08-01,2025,8,Washington,Bellevue,King,98004,48,Toyota,RAV4 Prime,2022,Plug-in Hybrid Electric Vehicle (PHEV),43,43865,Unknown,1
+EV0319,2020-10-01,2020,10,Washington,Tacoma,Pierce,98402,27,Toyota,RAV4 Prime,2020,Battery Electric Vehicle (BEV),42,43865,Unknown,1
+EV0320,2026-05-01,2026,5,Washington,Redmond,King,98052,45,Chevrolet,Bolt EV,2023,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0321,2024-09-01,2024,9,Washington,Renton,King,98057,11,Hyundai,IONIQ 5,2017,Battery Electric Vehicle (BEV),303,41800,Unknown,1
+EV0322,2026-11-01,2026,11,Washington,Bothell,Snohomish,98011,1,Hyundai,Kona Electric,2021,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0323,2025-08-01,2025,8,Washington,Redmond,King,98052,45,Toyota,Prius Prime,2016,Battery Electric Vehicle (BEV),44,32975,Unknown,1
+EV0324,2017-01-01,2017,1,Washington,Spokane,Spokane,99201,3,Tesla,Model S,2015,Battery Electric Vehicle (BEV),348,74990,Eligible,1
+EV0325,2020-09-01,2020,9,Washington,Olympia,Thurston,98501,22,Ford,Mustang Mach-E,2014,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0326,2026-11-01,2026,11,Washington,Olympia,Thurston,98501,22,Tesla,Model S,2023,Battery Electric Vehicle (BEV),348,74990,Eligible,1
+EV0327,2017-09-01,2017,9,Washington,Bothell,Snohomish,98011,1,Tesla,Model S,2014,Battery Electric Vehicle (BEV),348,74990,Not Eligible,1
+EV0328,2026-02-01,2026,2,Washington,Bellevue,King,98004,48,Volvo,C40 Recharge,2026,Plug-in Hybrid Electric Vehicle (PHEV),47,55300,Unknown,1
+EV0329,2024-06-01,2024,6,Washington,Vancouver,Clark,98660,49,Chevrolet,Bolt EV,2022,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0330,2024-12-01,2024,12,Washington,Tacoma,Pierce,98402,27,Nissan,Ariya,2023,Plug-in Hybrid Electric Vehicle (PHEV),49,39990,Not Eligible,1
+EV0331,2023-09-01,2023,9,Washington,Olympia,Thurston,98501,22,Nissan,Leaf,2020,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0332,2024-11-01,2024,11,Washington,Everett,Snohomish,98201,38,Tesla,Model S,2021,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0333,2026-05-01,2026,5,Washington,Seattle,King,98101,11,Nissan,Leaf,2025,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0334,2019-04-01,2019,4,Washington,Bellingham,Whatcom,98225,42,BMW,i4,2019,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0335,2024-10-01,2024,10,Washington,Spokane,Spokane,99201,3,Kia,EV6,2023,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0336,2026-09-01,2026,9,Washington,Bothell,Snohomish,98011,1,Volvo,C40 Recharge,2026,Plug-in Hybrid Electric Vehicle (PHEV),28,55300,Not Eligible,1
+EV0337,2022-10-01,2022,10,Washington,Bellingham,Whatcom,98225,42,Tesla,Model 3,2015,Battery Electric Vehicle (BEV),272,38990,Unknown,1
+EV0338,2025-08-01,2025,8,Washington,Tacoma,Pierce,98402,27,Kia,Niro EV,2018,Battery Electric Vehicle (BEV),253,39800,Not Eligible,1
+EV0339,2025-02-01,2025,2,Washington,Bellingham,Whatcom,98225,42,Volvo,C40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),57,55300,Not Eligible,1
+EV0340,2023-12-01,2023,12,Washington,Renton,King,98057,11,Ford,Mustang Mach-E,2016,Battery Electric Vehicle (BEV),312,39995,Eligible,1
+EV0341,2017-05-01,2017,5,Washington,Olympia,Thurston,98501,22,Kia,Niro EV,2015,Battery Electric Vehicle (BEV),253,39800,Not Eligible,1
+EV0342,2023-08-01,2023,8,Washington,Kirkland,King,98033,45,BMW,i4,2016,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0343,2020-10-01,2020,10,Washington,Bellingham,Whatcom,98225,42,Volvo,C40 Recharge,2019,Plug-in Hybrid Electric Vehicle (PHEV),25,55300,Not Eligible,1
+EV0344,2026-02-01,2026,2,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2020,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0345,2019-05-01,2019,5,Washington,Vancouver,Clark,98660,49,Ford,Mustang Mach-E,2016,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0346,2024-05-01,2024,5,Washington,Olympia,Thurston,98501,22,Toyota,Prius Prime,2018,Plug-in Hybrid Electric Vehicle (PHEV),47,32975,Eligible,1
+EV0347,2025-10-01,2025,10,Washington,Tacoma,Pierce,98402,27,Hyundai,Kona Electric,2021,Plug-in Hybrid Electric Vehicle (PHEV),60,32500,Not Eligible,1
+EV0348,2022-10-01,2022,10,Washington,Spokane,Spokane,99201,3,Nissan,Leaf,2020,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0349,2021-06-01,2021,6,Washington,Bellingham,Whatcom,98225,42,Toyota,RAV4 Prime,2016,Plug-in Hybrid Electric Vehicle (PHEV),58,43865,Unknown,1
+EV0350,2022-05-01,2022,5,Washington,Bothell,Snohomish,98011,1,Ford,F-150 Lightning,2020,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0351,2026-06-01,2026,6,Washington,Bellevue,King,98004,48,Toyota,Prius Prime,2026,Plug-in Hybrid Electric Vehicle (PHEV),37,32975,Unknown,1
+EV0352,2022-12-01,2022,12,Washington,Olympia,Thurston,98501,22,Ford,Mustang Mach-E,2022,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0353,2026-11-01,2026,11,Washington,Olympia,Thurston,98501,22,Ford,F-150 Lightning,2026,Plug-in Hybrid Electric Vehicle (PHEV),24,49995,Eligible,1
+EV0354,2023-07-01,2023,7,Washington,Bellevue,King,98004,48,BMW,i4,2016,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0355,2026-12-01,2026,12,Washington,Spokane,Spokane,99201,3,Volkswagen,e-Golf,2022,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0356,2026-02-01,2026,2,Washington,Tacoma,Pierce,98402,27,Tesla,Model Y,2026,Battery Electric Vehicle (BEV),330,44990,Unknown,1
+EV0357,2026-11-01,2026,11,Washington,Renton,King,98057,11,Hyundai,IONIQ 5,2014,Battery Electric Vehicle (BEV),303,41800,Unknown,1
+EV0358,2017-02-01,2017,2,Washington,Vancouver,Clark,98660,49,Kia,Niro EV,2015,Plug-in Hybrid Electric Vehicle (PHEV),47,39800,Eligible,1
+EV0359,2026-10-01,2026,10,Washington,Bothell,Snohomish,98011,1,Volvo,XC40 Recharge,2021,Plug-in Hybrid Electric Vehicle (PHEV),45,53990,Unknown,1
+EV0360,2021-07-01,2021,7,Washington,Bellevue,King,98004,48,Chevrolet,Equinox EV,2015,Plug-in Hybrid Electric Vehicle (PHEV),50,34995,Eligible,1
+EV0361,2022-09-01,2022,9,Washington,Olympia,Thurston,98501,22,Chevrolet,Equinox EV,2021,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0362,2020-05-01,2020,5,Washington,Seattle,King,98101,11,Toyota,Prius Prime,2019,Plug-in Hybrid Electric Vehicle (PHEV),48,32975,Unknown,1
+EV0363,2024-12-01,2024,12,Washington,Tacoma,Pierce,98402,27,Nissan,Leaf,2024,Plug-in Hybrid Electric Vehicle (PHEV),26,28140,Unknown,1
+EV0364,2023-04-01,2023,4,Washington,Spokane,Spokane,99201,3,Chevrolet,Bolt EV,2020,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0365,2023-01-01,2023,1,Washington,Bothell,Snohomish,98011,1,Chevrolet,Bolt EV,2020,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0366,2020-12-01,2020,12,Washington,Tacoma,Pierce,98402,27,Ford,F-150 Lightning,2020,Battery Electric Vehicle (BEV),240,49995,Eligible,1
+EV0367,2026-06-01,2026,6,Washington,Everett,Snohomish,98201,38,BMW,i4,2026,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0368,2024-10-01,2024,10,Washington,Spokane,Spokane,99201,3,Toyota,Prius Prime,2022,Plug-in Hybrid Electric Vehicle (PHEV),51,32975,Unknown,1
+EV0369,2025-03-01,2025,3,Washington,Renton,King,98057,11,Kia,EV6,2021,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0370,2020-04-01,2020,4,Washington,Vancouver,Clark,98660,49,BMW,i4,2019,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0371,2025-07-01,2025,7,Washington,Bellingham,Whatcom,98225,42,Chevrolet,Equinox EV,2022,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0372,2026-09-01,2026,9,Washington,Bothell,Snohomish,98011,1,Volkswagen,e-Golf,2021,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0373,2019-06-01,2019,6,Washington,Olympia,Thurston,98501,22,Chevrolet,Bolt EV,2016,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0374,2020-07-01,2020,7,Washington,Kirkland,King,98033,45,Tesla,Model Y,2016,Plug-in Hybrid Electric Vehicle (PHEV),51,44990,Unknown,1
+EV0375,2024-03-01,2024,3,Washington,Bellevue,King,98004,48,Toyota,RAV4 Prime,2021,Battery Electric Vehicle (BEV),42,43865,Unknown,1
+EV0376,2021-09-01,2021,9,Washington,Vancouver,Clark,98660,49,Tesla,Model 3,2018,Battery Electric Vehicle (BEV),272,38990,Eligible,1
+EV0377,2023-05-01,2023,5,Washington,Kirkland,King,98033,45,Toyota,RAV4 Prime,2023,Plug-in Hybrid Electric Vehicle (PHEV),27,43865,Not Eligible,1
+EV0378,2023-02-01,2023,2,Washington,Bothell,Snohomish,98011,1,Volvo,XC40 Recharge,2017,Battery Electric Vehicle (BEV),223,53990,Unknown,1
+EV0379,2023-06-01,2023,6,Washington,Bellevue,King,98004,48,Ford,F-150 Lightning,2021,Plug-in Hybrid Electric Vehicle (PHEV),22,49995,Not Eligible,1
+EV0380,2026-12-01,2026,12,Washington,Bellingham,Whatcom,98225,42,Nissan,Leaf,2025,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0381,2026-04-01,2026,4,Washington,Seattle,King,98101,11,Kia,EV6,2026,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0382,2022-12-01,2022,12,Washington,Vancouver,Clark,98660,49,Hyundai,Kona Electric,2016,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0383,2024-03-01,2024,3,Washington,Spokane,Spokane,99201,3,Volkswagen,e-Golf,2024,Plug-in Hybrid Electric Vehicle (PHEV),52,31995,Eligible,1
+EV0384,2020-03-01,2020,3,Washington,Bothell,Snohomish,98011,1,BMW,i4,2016,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0385,2025-11-01,2025,11,Washington,Spokane,Spokane,99201,3,Ford,F-150 Lightning,2023,Battery Electric Vehicle (BEV),240,49995,Not Eligible,1
+EV0386,2024-12-01,2024,12,Washington,Vancouver,Clark,98660,49,Toyota,Prius Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),25,32975,Unknown,1
+EV0387,2023-12-01,2023,12,Washington,Bellevue,King,98004,48,Hyundai,Kona Electric,2023,Plug-in Hybrid Electric Vehicle (PHEV),40,32500,Unknown,1
+EV0388,2023-04-01,2023,4,Washington,Olympia,Thurston,98501,22,Toyota,RAV4 Prime,2017,Plug-in Hybrid Electric Vehicle (PHEV),45,43865,Not Eligible,1
+EV0389,2024-10-01,2024,10,Washington,Olympia,Thurston,98501,22,Hyundai,Kona Electric,2023,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0390,2026-01-01,2026,1,Washington,Bellevue,King,98004,48,Tesla,Model 3,2026,Battery Electric Vehicle (BEV),272,38990,Eligible,1
+EV0391,2019-11-01,2019,11,Washington,Vancouver,Clark,98660,49,Toyota,RAV4 Prime,2017,Plug-in Hybrid Electric Vehicle (PHEV),47,43865,Eligible,1
+EV0392,2019-06-01,2019,6,Washington,Renton,King,98057,11,BMW,i4,2018,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0393,2021-07-01,2021,7,Washington,Renton,King,98057,11,Chevrolet,Bolt EV,2018,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0394,2019-10-01,2019,10,Washington,Tacoma,Pierce,98402,27,Nissan,Leaf,2015,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0395,2023-12-01,2023,12,Washington,Redmond,King,98052,45,Toyota,Prius Prime,2015,Plug-in Hybrid Electric Vehicle (PHEV),41,32975,Not Eligible,1
+EV0396,2025-02-01,2025,2,Washington,Everett,Snohomish,98201,38,Nissan,Leaf,2025,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0397,2026-11-01,2026,11,Washington,Renton,King,98057,11,BMW,i4,2026,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0398,2024-06-01,2024,6,Washington,Bothell,Snohomish,98011,1,Nissan,Leaf,2016,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0399,2022-02-01,2022,2,Washington,Bellevue,King,98004,48,Chevrolet,Equinox EV,2021,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0400,2022-03-01,2022,3,Washington,Tacoma,Pierce,98402,27,Nissan,Ariya,2020,Battery Electric Vehicle (BEV),216,39990,Not Eligible,1
+EV0401,2025-12-01,2025,12,Washington,Seattle,King,98101,11,Nissan,Leaf,2023,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0402,2023-12-01,2023,12,Washington,Spokane,Spokane,99201,3,BMW,i4,2022,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0403,2020-08-01,2020,8,Washington,Renton,King,98057,11,Tesla,Model 3,2015,Battery Electric Vehicle (BEV),272,38990,Unknown,1
+EV0404,2023-10-01,2023,10,Washington,Spokane,Spokane,99201,3,Nissan,Leaf,2016,Plug-in Hybrid Electric Vehicle (PHEV),40,28140,Not Eligible,1
+EV0405,2026-02-01,2026,2,Washington,Seattle,King,98101,11,Volvo,XC40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),24,53990,Not Eligible,1
+EV0406,2024-11-01,2024,11,Washington,Bothell,Snohomish,98011,1,Ford,Mustang Mach-E,2022,Plug-in Hybrid Electric Vehicle (PHEV),45,39995,Unknown,1
+EV0407,2025-09-01,2025,9,Washington,Bellingham,Whatcom,98225,42,Kia,Niro EV,2015,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0408,2023-03-01,2023,3,Washington,Kirkland,King,98033,45,BMW,i4,2022,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0409,2025-04-01,2025,4,Washington,Seattle,King,98101,11,Kia,EV6,2020,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0410,2023-05-01,2023,5,Washington,Renton,King,98057,11,Nissan,Ariya,2023,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0411,2017-03-01,2017,3,Washington,Olympia,Thurston,98501,22,Chevrolet,Bolt EV,2016,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0412,2026-12-01,2026,12,Washington,Bellevue,King,98004,48,Volvo,C40 Recharge,2025,Plug-in Hybrid Electric Vehicle (PHEV),28,55300,Eligible,1
+EV0413,2021-12-01,2021,12,Washington,Bellingham,Whatcom,98225,42,Hyundai,Kona Electric,2015,Battery Electric Vehicle (BEV),261,32500,Unknown,1
+EV0414,2019-08-01,2019,8,Washington,Bellingham,Whatcom,98225,42,Nissan,Ariya,2019,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0415,2026-11-01,2026,11,Washington,Bothell,Snohomish,98011,1,Hyundai,IONIQ 5,2015,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0416,2020-01-01,2020,1,Washington,Olympia,Thurston,98501,22,Ford,Mustang Mach-E,2014,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0417,2025-12-01,2025,12,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2014,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0418,2025-06-01,2025,6,Washington,Vancouver,Clark,98660,49,Kia,EV6,2020,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0419,2024-03-01,2024,3,Washington,Tacoma,Pierce,98402,27,Volkswagen,e-Golf,2024,Battery Electric Vehicle (BEV),125,31995,Unknown,1
+EV0420,2023-05-01,2023,5,Washington,Everett,Snohomish,98201,38,Tesla,Model Y,2021,Battery Electric Vehicle (BEV),330,44990,Eligible,1
+EV0421,2022-12-01,2022,12,Washington,Bellingham,Whatcom,98225,42,Volvo,C40 Recharge,2018,Plug-in Hybrid Electric Vehicle (PHEV),32,55300,Eligible,1
+EV0422,2026-12-01,2026,12,Washington,Kirkland,King,98033,45,Toyota,RAV4 Prime,2026,Plug-in Hybrid Electric Vehicle (PHEV),51,43865,Eligible,1
+EV0423,2025-06-01,2025,6,Washington,Renton,King,98057,11,Chevrolet,Bolt EV,2017,Plug-in Hybrid Electric Vehicle (PHEV),21,26500,Unknown,1
+EV0424,2025-12-01,2025,12,Washington,Bothell,Snohomish,98011,1,Tesla,Model Y,2024,Battery Electric Vehicle (BEV),330,44990,Not Eligible,1
+EV0425,2023-08-01,2023,8,Washington,Seattle,King,98101,11,Nissan,Leaf,2017,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0426,2025-07-01,2025,7,Washington,Bothell,Snohomish,98011,1,BMW,i4,2017,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0427,2023-02-01,2023,2,Washington,Bellingham,Whatcom,98225,42,Toyota,Prius Prime,2016,Plug-in Hybrid Electric Vehicle (PHEV),52,32975,Unknown,1
+EV0428,2020-05-01,2020,5,Washington,Vancouver,Clark,98660,49,Tesla,Model Y,2016,Battery Electric Vehicle (BEV),330,44990,Not Eligible,1
+EV0429,2021-02-01,2021,2,Washington,Tacoma,Pierce,98402,27,Kia,Niro EV,2018,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0430,2024-08-01,2024,8,Washington,Everett,Snohomish,98201,38,Volkswagen,ID.4,2016,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0431,2023-08-01,2023,8,Washington,Vancouver,Clark,98660,49,Nissan,Ariya,2021,Plug-in Hybrid Electric Vehicle (PHEV),33,39990,Eligible,1
+EV0432,2025-04-01,2025,4,Washington,Everett,Snohomish,98201,38,Nissan,Leaf,2025,Plug-in Hybrid Electric Vehicle (PHEV),39,28140,Eligible,1
+EV0433,2022-11-01,2022,11,Washington,Vancouver,Clark,98660,49,Nissan,Leaf,2022,Plug-in Hybrid Electric Vehicle (PHEV),45,28140,Not Eligible,1
+EV0434,2026-04-01,2026,4,Washington,Bellevue,King,98004,48,Chevrolet,Bolt EV,2022,Plug-in Hybrid Electric Vehicle (PHEV),48,26500,Not Eligible,1
+EV0435,2020-03-01,2020,3,Washington,Tacoma,Pierce,98402,27,Nissan,Leaf,2014,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0436,2019-01-01,2019,1,Washington,Bellevue,King,98004,48,Hyundai,IONIQ 5,2018,Battery Electric Vehicle (BEV),303,41800,Eligible,1
+EV0437,2017-08-01,2017,8,Washington,Seattle,King,98101,11,Toyota,Prius Prime,2015,Plug-in Hybrid Electric Vehicle (PHEV),41,32975,Eligible,1
+EV0438,2021-07-01,2021,7,Washington,Renton,King,98057,11,Volkswagen,e-Golf,2021,Plug-in Hybrid Electric Vehicle (PHEV),45,31995,Not Eligible,1
+EV0439,2021-05-01,2021,5,Washington,Olympia,Thurston,98501,22,Chevrolet,Equinox EV,2016,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0440,2021-08-01,2021,8,Washington,Spokane,Spokane,99201,3,Tesla,Model S,2017,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0441,2023-04-01,2023,4,Washington,Renton,King,98057,11,Toyota,Prius Prime,2016,Plug-in Hybrid Electric Vehicle (PHEV),44,32975,Unknown,1
+EV0442,2025-08-01,2025,8,Washington,Everett,Snohomish,98201,38,Ford,Mustang Mach-E,2021,Plug-in Hybrid Electric Vehicle (PHEV),42,39995,Unknown,1
+EV0443,2022-10-01,2022,10,Washington,Tacoma,Pierce,98402,27,Volvo,C40 Recharge,2014,Plug-in Hybrid Electric Vehicle (PHEV),31,55300,Eligible,1
+EV0444,2024-10-01,2024,10,Washington,Tacoma,Pierce,98402,27,BMW,i4,2022,Plug-in Hybrid Electric Vehicle (PHEV),50,52100,Eligible,1
+EV0445,2026-12-01,2026,12,Washington,Seattle,King,98101,11,Nissan,Leaf,2018,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0446,2019-04-01,2019,4,Washington,Bellingham,Whatcom,98225,42,Volkswagen,e-Golf,2016,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0447,2021-10-01,2021,10,Washington,Tacoma,Pierce,98402,27,Hyundai,IONIQ 5,2019,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0448,2017-04-01,2017,4,Washington,Bellingham,Whatcom,98225,42,Volvo,C40 Recharge,2015,Plug-in Hybrid Electric Vehicle (PHEV),22,55300,Eligible,1
+EV0449,2022-03-01,2022,3,Washington,Everett,Snohomish,98201,38,Tesla,Model S,2019,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0450,2026-12-01,2026,12,Washington,Redmond,King,98052,45,Chevrolet,Equinox EV,2016,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0451,2025-10-01,2025,10,Washington,Bellevue,King,98004,48,Volvo,C40 Recharge,2024,Battery Electric Vehicle (BEV),226,55300,Not Eligible,1
+EV0452,2023-11-01,2023,11,Washington,Olympia,Thurston,98501,22,BMW,iX,2016,Battery Electric Vehicle (BEV),305,87100,Unknown,1
+EV0453,2026-06-01,2026,6,Washington,Tacoma,Pierce,98402,27,Hyundai,IONIQ 5,2022,Battery Electric Vehicle (BEV),303,41800,Unknown,1
+EV0454,2026-03-01,2026,3,Washington,Redmond,King,98052,45,Volkswagen,ID.4,2025,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0455,2026-03-01,2026,3,Washington,Bellingham,Whatcom,98225,42,Tesla,Model S,2026,Plug-in Hybrid Electric Vehicle (PHEV),45,74990,Not Eligible,1
+EV0456,2024-03-01,2024,3,Washington,Everett,Snohomish,98201,38,Volkswagen,ID.4,2015,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0457,2021-11-01,2021,11,Washington,Bellevue,King,98004,48,Nissan,Leaf,2019,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0458,2020-12-01,2020,12,Washington,Bellevue,King,98004,48,Hyundai,Kona Electric,2017,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0459,2023-08-01,2023,8,Washington,Bothell,Snohomish,98011,1,BMW,i4,2014,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0460,2022-09-01,2022,9,Washington,Spokane,Spokane,99201,3,Chevrolet,Equinox EV,2020,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0461,2026-05-01,2026,5,Washington,Seattle,King,98101,11,Toyota,Prius Prime,2026,Plug-in Hybrid Electric Vehicle (PHEV),24,32975,Not Eligible,1
+EV0462,2023-03-01,2023,3,Washington,Bothell,Snohomish,98011,1,BMW,i4,2016,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0463,2026-01-01,2026,1,Washington,Spokane,Spokane,99201,3,Volvo,XC40 Recharge,2021,Plug-in Hybrid Electric Vehicle (PHEV),59,53990,Unknown,1
+EV0464,2022-04-01,2022,4,Washington,Tacoma,Pierce,98402,27,Chevrolet,Equinox EV,2015,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0465,2017-07-01,2017,7,Washington,Bellingham,Whatcom,98225,42,Volvo,C40 Recharge,2015,Battery Electric Vehicle (BEV),226,55300,Unknown,1
+EV0466,2020-05-01,2020,5,Washington,Renton,King,98057,11,Toyota,Prius Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),20,32975,Unknown,1
+EV0467,2020-03-01,2020,3,Washington,Renton,King,98057,11,Volkswagen,e-Golf,2014,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0468,2026-08-01,2026,8,Washington,Olympia,Thurston,98501,22,Nissan,Ariya,2026,Plug-in Hybrid Electric Vehicle (PHEV),39,39990,Unknown,1
+EV0469,2021-06-01,2021,6,Washington,Spokane,Spokane,99201,3,BMW,i4,2020,Battery Electric Vehicle (BEV),301,52100,Not Eligible,1
+EV0470,2024-05-01,2024,5,Washington,Tacoma,Pierce,98402,27,Chevrolet,Equinox EV,2021,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0471,2025-02-01,2025,2,Washington,Renton,King,98057,11,Volkswagen,ID.4,2025,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0472,2022-07-01,2022,7,Washington,Kirkland,King,98033,45,Volvo,C40 Recharge,2022,Battery Electric Vehicle (BEV),226,55300,Not Eligible,1
+EV0473,2023-02-01,2023,2,Washington,Spokane,Spokane,99201,3,Volvo,C40 Recharge,2021,Plug-in Hybrid Electric Vehicle (PHEV),35,55300,Unknown,1
+EV0474,2026-11-01,2026,11,Washington,Bellingham,Whatcom,98225,42,Tesla,Model S,2022,Battery Electric Vehicle (BEV),348,74990,Eligible,1
+EV0475,2020-04-01,2020,4,Washington,Redmond,King,98052,45,Nissan,Ariya,2016,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0476,2019-10-01,2019,10,Washington,Vancouver,Clark,98660,49,Kia,EV6,2017,Plug-in Hybrid Electric Vehicle (PHEV),47,42900,Not Eligible,1
+EV0477,2024-06-01,2024,6,Washington,Vancouver,Clark,98660,49,Nissan,Leaf,2020,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0478,2025-02-01,2025,2,Washington,Spokane,Spokane,99201,3,Toyota,Prius Prime,2022,Battery Electric Vehicle (BEV),44,32975,Eligible,1
+EV0479,2026-05-01,2026,5,Washington,Kirkland,King,98033,45,Chevrolet,Bolt EV,2026,Plug-in Hybrid Electric Vehicle (PHEV),56,26500,Not Eligible,1
+EV0480,2025-10-01,2025,10,Washington,Olympia,Thurston,98501,22,Kia,Niro EV,2021,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0481,2026-01-01,2026,1,Washington,Spokane,Spokane,99201,3,Chevrolet,Equinox EV,2023,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0482,2023-01-01,2023,1,Washington,Everett,Snohomish,98201,38,Ford,Mustang Mach-E,2018,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0483,2019-05-01,2019,5,Washington,Bothell,Snohomish,98011,1,BMW,iX,2017,Plug-in Hybrid Electric Vehicle (PHEV),26,87100,Not Eligible,1
+EV0484,2023-04-01,2023,4,Washington,Olympia,Thurston,98501,22,Hyundai,Kona Electric,2023,Battery Electric Vehicle (BEV),261,32500,Eligible,1
+EV0485,2019-09-01,2019,9,Washington,Redmond,King,98052,45,Kia,Niro EV,2019,Battery Electric Vehicle (BEV),253,39800,Eligible,1
+EV0486,2026-01-01,2026,1,Washington,Redmond,King,98052,45,BMW,iX,2022,Battery Electric Vehicle (BEV),305,87100,Eligible,1
+EV0487,2021-06-01,2021,6,Washington,Bothell,Snohomish,98011,1,Ford,Mustang Mach-E,2021,Battery Electric Vehicle (BEV),312,39995,Eligible,1
+EV0488,2025-02-01,2025,2,Washington,Renton,King,98057,11,BMW,iX,2020,Plug-in Hybrid Electric Vehicle (PHEV),52,87100,Eligible,1
+EV0489,2022-08-01,2022,8,Washington,Bellingham,Whatcom,98225,42,Ford,F-150 Lightning,2021,Battery Electric Vehicle (BEV),240,49995,Unknown,1
+EV0490,2019-05-01,2019,5,Washington,Seattle,King,98101,11,Hyundai,Kona Electric,2018,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0491,2020-11-01,2020,11,Washington,Tacoma,Pierce,98402,27,Tesla,Model 3,2017,Plug-in Hybrid Electric Vehicle (PHEV),33,38990,Not Eligible,1
+EV0492,2022-11-01,2022,11,Washington,Redmond,King,98052,45,Kia,EV6,2021,Plug-in Hybrid Electric Vehicle (PHEV),20,42900,Unknown,1
+EV0493,2026-12-01,2026,12,Washington,Bothell,Snohomish,98011,1,Tesla,Model 3,2026,Battery Electric Vehicle (BEV),272,38990,Unknown,1
+EV0494,2023-04-01,2023,4,Washington,Olympia,Thurston,98501,22,BMW,iX,2021,Plug-in Hybrid Electric Vehicle (PHEV),42,87100,Not Eligible,1
+EV0495,2024-09-01,2024,9,Washington,Renton,King,98057,11,Volvo,C40 Recharge,2022,Plug-in Hybrid Electric Vehicle (PHEV),20,55300,Unknown,1
+EV0496,2024-02-01,2024,2,Washington,Everett,Snohomish,98201,38,Volkswagen,e-Golf,2015,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0497,2026-04-01,2026,4,Washington,Redmond,King,98052,45,Hyundai,Kona Electric,2025,Battery Electric Vehicle (BEV),261,32500,Unknown,1
+EV0498,2025-06-01,2025,6,Washington,Renton,King,98057,11,Ford,Mustang Mach-E,2020,Plug-in Hybrid Electric Vehicle (PHEV),58,39995,Eligible,1
+EV0499,2022-07-01,2022,7,Washington,Spokane,Spokane,99201,3,Tesla,Model S,2018,Battery Electric Vehicle (BEV),348,74990,Not Eligible,1
+EV0500,2024-06-01,2024,6,Washington,Bothell,Snohomish,98011,1,Tesla,Model S,2023,Battery Electric Vehicle (BEV),348,74990,Unknown,1
+EV0501,2024-03-01,2024,3,Washington,Renton,King,98057,11,Ford,F-150 Lightning,2022,Plug-in Hybrid Electric Vehicle (PHEV),42,49995,Unknown,1
+EV0502,2021-12-01,2021,12,Washington,Kirkland,King,98033,45,Chevrolet,Equinox EV,2016,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0503,2021-07-01,2021,7,Washington,Everett,Snohomish,98201,38,Hyundai,IONIQ 5,2017,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
+EV0504,2024-01-01,2024,1,Washington,Renton,King,98057,11,BMW,iX,2015,Battery Electric Vehicle (BEV),305,87100,Unknown,1
+EV0505,2025-02-01,2025,2,Washington,Renton,King,98057,11,Volkswagen,ID.4,2017,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0506,2020-06-01,2020,6,Washington,Spokane,Spokane,99201,3,Volvo,C40 Recharge,2016,Plug-in Hybrid Electric Vehicle (PHEV),29,55300,Unknown,1
+EV0507,2026-08-01,2026,8,Washington,Everett,Snohomish,98201,38,Toyota,Prius Prime,2026,Plug-in Hybrid Electric Vehicle (PHEV),31,32975,Unknown,1
+EV0508,2024-05-01,2024,5,Washington,Tacoma,Pierce,98402,27,Chevrolet,Equinox EV,2014,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0509,2026-03-01,2026,3,Washington,Bellingham,Whatcom,98225,42,Volkswagen,ID.4,2026,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0510,2024-01-01,2024,1,Washington,Seattle,King,98101,11,Kia,Niro EV,2021,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0511,2026-01-01,2026,1,Washington,Renton,King,98057,11,Ford,F-150 Lightning,2026,Plug-in Hybrid Electric Vehicle (PHEV),40,49995,Eligible,1
+EV0512,2023-03-01,2023,3,Washington,Bellevue,King,98004,48,Ford,Mustang Mach-E,2019,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0513,2022-08-01,2022,8,Washington,Bothell,Snohomish,98011,1,Volvo,C40 Recharge,2018,Plug-in Hybrid Electric Vehicle (PHEV),22,55300,Unknown,1
+EV0514,2024-06-01,2024,6,Washington,Olympia,Thurston,98501,22,Volkswagen,e-Golf,2024,Battery Electric Vehicle (BEV),125,31995,Not Eligible,1
+EV0515,2020-04-01,2020,4,Washington,Bothell,Snohomish,98011,1,Ford,Mustang Mach-E,2014,Plug-in Hybrid Electric Vehicle (PHEV),45,39995,Eligible,1
+EV0516,2018-06-01,2018,6,Washington,Bothell,Snohomish,98011,1,Ford,Mustang Mach-E,2016,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0517,2026-10-01,2026,10,Washington,Seattle,King,98101,11,Tesla,Model Y,2026,Plug-in Hybrid Electric Vehicle (PHEV),36,44990,Unknown,1
+EV0518,2023-08-01,2023,8,Washington,Spokane,Spokane,99201,3,Nissan,Leaf,2015,Battery Electric Vehicle (BEV),149,28140,Eligible,1
+EV0519,2017-05-01,2017,5,Washington,Spokane,Spokane,99201,3,Volvo,C40 Recharge,2017,Plug-in Hybrid Electric Vehicle (PHEV),29,55300,Unknown,1
+EV0520,2025-07-01,2025,7,Washington,Bellevue,King,98004,48,Nissan,Ariya,2025,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0521,2026-08-01,2026,8,Washington,Tacoma,Pierce,98402,27,Volkswagen,ID.4,2026,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0522,2025-05-01,2025,5,Washington,Redmond,King,98052,45,Ford,F-150 Lightning,2019,Plug-in Hybrid Electric Vehicle (PHEV),32,49995,Eligible,1
+EV0523,2023-04-01,2023,4,Washington,Seattle,King,98101,11,Volvo,C40 Recharge,2021,Battery Electric Vehicle (BEV),226,55300,Eligible,1
+EV0524,2018-09-01,2018,9,Washington,Bellevue,King,98004,48,Nissan,Leaf,2016,Plug-in Hybrid Electric Vehicle (PHEV),51,28140,Unknown,1
+EV0525,2023-05-01,2023,5,Washington,Olympia,Thurston,98501,22,Nissan,Ariya,2021,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0526,2024-07-01,2024,7,Washington,Bothell,Snohomish,98011,1,Nissan,Leaf,2019,Plug-in Hybrid Electric Vehicle (PHEV),38,28140,Eligible,1
+EV0527,2019-06-01,2019,6,Washington,Everett,Snohomish,98201,38,Nissan,Leaf,2016,Battery Electric Vehicle (BEV),149,28140,Not Eligible,1
+EV0528,2024-03-01,2024,3,Washington,Bellevue,King,98004,48,Volkswagen,e-Golf,2019,Plug-in Hybrid Electric Vehicle (PHEV),25,31995,Not Eligible,1
+EV0529,2025-08-01,2025,8,Washington,Spokane,Spokane,99201,3,Kia,Niro EV,2020,Battery Electric Vehicle (BEV),253,39800,Unknown,1
+EV0530,2025-03-01,2025,3,Washington,Bellevue,King,98004,48,Chevrolet,Bolt EV,2025,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0531,2026-07-01,2026,7,Washington,Everett,Snohomish,98201,38,Volkswagen,e-Golf,2016,Plug-in Hybrid Electric Vehicle (PHEV),48,31995,Unknown,1
+EV0532,2024-02-01,2024,2,Washington,Spokane,Spokane,99201,3,Tesla,Model S,2021,Plug-in Hybrid Electric Vehicle (PHEV),28,74990,Not Eligible,1
+EV0533,2019-12-01,2019,12,Washington,Renton,King,98057,11,Tesla,Model 3,2019,Battery Electric Vehicle (BEV),272,38990,Unknown,1
+EV0534,2026-12-01,2026,12,Washington,Bothell,Snohomish,98011,1,Volkswagen,ID.4,2022,Plug-in Hybrid Electric Vehicle (PHEV),41,38995,Unknown,1
+EV0535,2024-06-01,2024,6,Washington,Renton,King,98057,11,Nissan,Ariya,2017,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0536,2023-01-01,2023,1,Washington,Renton,King,98057,11,Kia,EV6,2023,Plug-in Hybrid Electric Vehicle (PHEV),55,42900,Eligible,1
+EV0537,2026-06-01,2026,6,Washington,Tacoma,Pierce,98402,27,Volvo,C40 Recharge,2026,Plug-in Hybrid Electric Vehicle (PHEV),24,55300,Not Eligible,1
+EV0538,2025-07-01,2025,7,Washington,Tacoma,Pierce,98402,27,BMW,i4,2022,Battery Electric Vehicle (BEV),301,52100,Eligible,1
+EV0539,2024-06-01,2024,6,Washington,Bellevue,King,98004,48,Toyota,RAV4 Prime,2021,Battery Electric Vehicle (BEV),42,43865,Not Eligible,1
+EV0540,2025-09-01,2025,9,Washington,Seattle,King,98101,11,Tesla,Model 3,2014,Battery Electric Vehicle (BEV),272,38990,Eligible,1
+EV0541,2024-06-01,2024,6,Washington,Everett,Snohomish,98201,38,Volkswagen,e-Golf,2017,Plug-in Hybrid Electric Vehicle (PHEV),55,31995,Eligible,1
+EV0542,2026-12-01,2026,12,Washington,Renton,King,98057,11,Ford,F-150 Lightning,2026,Battery Electric Vehicle (BEV),240,49995,Not Eligible,1
+EV0543,2022-06-01,2022,6,Washington,Renton,King,98057,11,Toyota,Prius Prime,2014,Plug-in Hybrid Electric Vehicle (PHEV),34,32975,Not Eligible,1
+EV0544,2024-03-01,2024,3,Washington,Bothell,Snohomish,98011,1,Volvo,C40 Recharge,2016,Battery Electric Vehicle (BEV),226,55300,Unknown,1
+EV0545,2020-02-01,2020,2,Washington,Spokane,Spokane,99201,3,Kia,EV6,2017,Battery Electric Vehicle (BEV),310,42900,Eligible,1
+EV0546,2020-11-01,2020,11,Washington,Renton,King,98057,11,Toyota,Prius Prime,2020,Battery Electric Vehicle (BEV),44,32975,Unknown,1
+EV0547,2024-08-01,2024,8,Washington,Seattle,King,98101,11,Nissan,Ariya,2023,Battery Electric Vehicle (BEV),216,39990,Unknown,1
+EV0548,2025-03-01,2025,3,Washington,Bothell,Snohomish,98011,1,Tesla,Model S,2021,Plug-in Hybrid Electric Vehicle (PHEV),57,74990,Unknown,1
+EV0549,2026-10-01,2026,10,Washington,Everett,Snohomish,98201,38,Chevrolet,Bolt EV,2024,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0550,2024-06-01,2024,6,Washington,Vancouver,Clark,98660,49,Kia,Niro EV,2018,Plug-in Hybrid Electric Vehicle (PHEV),35,39800,Not Eligible,1
+EV0551,2026-12-01,2026,12,Washington,Kirkland,King,98033,45,Chevrolet,Bolt EV,2025,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0552,2026-11-01,2026,11,Washington,Everett,Snohomish,98201,38,Volvo,XC40 Recharge,2025,Plug-in Hybrid Electric Vehicle (PHEV),59,53990,Unknown,1
+EV0553,2026-12-01,2026,12,Washington,Bellevue,King,98004,48,Chevrolet,Bolt EV,2025,Battery Electric Vehicle (BEV),259,26500,Not Eligible,1
+EV0554,2026-09-01,2026,9,Washington,Vancouver,Clark,98660,49,Volvo,C40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),46,55300,Not Eligible,1
+EV0555,2021-01-01,2021,1,Washington,Renton,King,98057,11,Tesla,Model S,2020,Battery Electric Vehicle (BEV),348,74990,Eligible,1
+EV0556,2021-11-01,2021,11,Washington,Vancouver,Clark,98660,49,Ford,F-150 Lightning,2016,Battery Electric Vehicle (BEV),240,49995,Eligible,1
+EV0557,2026-06-01,2026,6,Washington,Olympia,Thurston,98501,22,Tesla,Model S,2026,Plug-in Hybrid Electric Vehicle (PHEV),33,74990,Eligible,1
+EV0558,2025-04-01,2025,4,Washington,Kirkland,King,98033,45,Volkswagen,ID.4,2022,Battery Electric Vehicle (BEV),275,38995,Unknown,1
+EV0559,2026-11-01,2026,11,Washington,Everett,Snohomish,98201,38,BMW,i4,2020,Plug-in Hybrid Electric Vehicle (PHEV),44,52100,Unknown,1
+EV0560,2026-08-01,2026,8,Washington,Tacoma,Pierce,98402,27,Tesla,Model 3,2017,Battery Electric Vehicle (BEV),272,38990,Unknown,1
+EV0561,2021-08-01,2021,8,Washington,Redmond,King,98052,45,Hyundai,IONIQ 5,2017,Battery Electric Vehicle (BEV),303,41800,Unknown,1
+EV0562,2023-01-01,2023,1,Washington,Spokane,Spokane,99201,3,Nissan,Leaf,2015,Plug-in Hybrid Electric Vehicle (PHEV),52,28140,Not Eligible,1
+EV0563,2018-06-01,2018,6,Washington,Olympia,Thurston,98501,22,Volvo,C40 Recharge,2018,Plug-in Hybrid Electric Vehicle (PHEV),57,55300,Unknown,1
+EV0564,2019-11-01,2019,11,Washington,Bellingham,Whatcom,98225,42,Chevrolet,Bolt EV,2019,Battery Electric Vehicle (BEV),259,26500,Unknown,1
+EV0565,2020-12-01,2020,12,Washington,Everett,Snohomish,98201,38,BMW,iX,2019,Plug-in Hybrid Electric Vehicle (PHEV),55,87100,Unknown,1
+EV0566,2026-07-01,2026,7,Washington,Kirkland,King,98033,45,Ford,Mustang Mach-E,2026,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0567,2022-06-01,2022,6,Washington,Everett,Snohomish,98201,38,Kia,EV6,2017,Battery Electric Vehicle (BEV),310,42900,Not Eligible,1
+EV0568,2022-08-01,2022,8,Washington,Tacoma,Pierce,98402,27,Ford,F-150 Lightning,2015,Plug-in Hybrid Electric Vehicle (PHEV),20,49995,Unknown,1
+EV0569,2026-02-01,2026,2,Washington,Spokane,Spokane,99201,3,Volkswagen,ID.4,2020,Plug-in Hybrid Electric Vehicle (PHEV),40,38995,Not Eligible,1
+EV0570,2026-09-01,2026,9,Washington,Kirkland,King,98033,45,Volvo,C40 Recharge,2026,Plug-in Hybrid Electric Vehicle (PHEV),53,55300,Not Eligible,1
+EV0571,2020-02-01,2020,2,Washington,Redmond,King,98052,45,Toyota,Prius Prime,2019,Plug-in Hybrid Electric Vehicle (PHEV),32,32975,Unknown,1
+EV0572,2026-04-01,2026,4,Washington,Renton,King,98057,11,Volvo,XC40 Recharge,2024,Plug-in Hybrid Electric Vehicle (PHEV),33,53990,Not Eligible,1
+EV0573,2026-11-01,2026,11,Washington,Bellevue,King,98004,48,Nissan,Leaf,2025,Battery Electric Vehicle (BEV),149,28140,Unknown,1
+EV0574,2019-02-01,2019,2,Washington,Bellevue,King,98004,48,Chevrolet,Bolt EV,2019,Battery Electric Vehicle (BEV),259,26500,Eligible,1
+EV0575,2024-05-01,2024,5,Washington,Spokane,Spokane,99201,3,Chevrolet,Equinox EV,2023,Battery Electric Vehicle (BEV),319,34995,Not Eligible,1
+EV0576,2025-02-01,2025,2,Washington,Kirkland,King,98033,45,Toyota,RAV4 Prime,2020,Plug-in Hybrid Electric Vehicle (PHEV),21,43865,Eligible,1
+EV0577,2023-12-01,2023,12,Washington,Bellevue,King,98004,48,Volkswagen,ID.4,2023,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0578,2023-05-01,2023,5,Washington,Olympia,Thurston,98501,22,Volvo,XC40 Recharge,2023,Plug-in Hybrid Electric Vehicle (PHEV),39,53990,Not Eligible,1
+EV0579,2023-03-01,2023,3,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2022,Battery Electric Vehicle (BEV),310,42900,Not Eligible,1
+EV0580,2026-11-01,2026,11,Washington,Everett,Snohomish,98201,38,Volvo,C40 Recharge,2024,Battery Electric Vehicle (BEV),226,55300,Eligible,1
+EV0581,2026-09-01,2026,9,Washington,Kirkland,King,98033,45,Volvo,XC40 Recharge,2023,Plug-in Hybrid Electric Vehicle (PHEV),20,53990,Eligible,1
+EV0582,2026-04-01,2026,4,Washington,Spokane,Spokane,99201,3,BMW,i4,2025,Battery Electric Vehicle (BEV),301,52100,Unknown,1
+EV0583,2025-04-01,2025,4,Washington,Bellevue,King,98004,48,Volvo,XC40 Recharge,2023,Plug-in Hybrid Electric Vehicle (PHEV),34,53990,Eligible,1
+EV0584,2026-09-01,2026,9,Washington,Bellevue,King,98004,48,Volkswagen,ID.4,2021,Plug-in Hybrid Electric Vehicle (PHEV),55,38995,Not Eligible,1
+EV0585,2026-06-01,2026,6,Washington,Everett,Snohomish,98201,38,Nissan,Ariya,2025,Battery Electric Vehicle (BEV),216,39990,Eligible,1
+EV0586,2020-06-01,2020,6,Washington,Olympia,Thurston,98501,22,Ford,Mustang Mach-E,2015,Battery Electric Vehicle (BEV),312,39995,Not Eligible,1
+EV0587,2026-10-01,2026,10,Washington,Everett,Snohomish,98201,38,Hyundai,Kona Electric,2016,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0588,2020-12-01,2020,12,Washington,Bothell,Snohomish,98011,1,Kia,EV6,2017,Battery Electric Vehicle (BEV),310,42900,Unknown,1
+EV0589,2026-06-01,2026,6,Washington,Olympia,Thurston,98501,22,Kia,Niro EV,2024,Plug-in Hybrid Electric Vehicle (PHEV),28,39800,Not Eligible,1
+EV0590,2019-11-01,2019,11,Washington,Bellingham,Whatcom,98225,42,Toyota,RAV4 Prime,2015,Battery Electric Vehicle (BEV),42,43865,Eligible,1
+EV0591,2019-12-01,2019,12,Washington,Bellevue,King,98004,48,BMW,i4,2018,Plug-in Hybrid Electric Vehicle (PHEV),32,52100,Eligible,1
+EV0592,2026-01-01,2026,1,Washington,Kirkland,King,98033,45,Volvo,XC40 Recharge,2026,Battery Electric Vehicle (BEV),223,53990,Not Eligible,1
+EV0593,2021-10-01,2021,10,Washington,Bothell,Snohomish,98011,1,Volvo,C40 Recharge,2020,Battery Electric Vehicle (BEV),226,55300,Not Eligible,1
+EV0594,2023-06-01,2023,6,Washington,Kirkland,King,98033,45,Chevrolet,Equinox EV,2015,Battery Electric Vehicle (BEV),319,34995,Eligible,1
+EV0595,2024-03-01,2024,3,Washington,Redmond,King,98052,45,Ford,Mustang Mach-E,2016,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0596,2023-01-01,2023,1,Washington,Tacoma,Pierce,98402,27,Volkswagen,ID.4,2021,Battery Electric Vehicle (BEV),275,38995,Not Eligible,1
+EV0597,2017-11-01,2017,11,Washington,Tacoma,Pierce,98402,27,Ford,Mustang Mach-E,2017,Battery Electric Vehicle (BEV),312,39995,Unknown,1
+EV0598,2021-01-01,2021,1,Washington,Renton,King,98057,11,Hyundai,Kona Electric,2021,Battery Electric Vehicle (BEV),261,32500,Not Eligible,1
+EV0599,2024-07-01,2024,7,Washington,Renton,King,98057,11,Nissan,Ariya,2023,Plug-in Hybrid Electric Vehicle (PHEV),36,39990,Not Eligible,1
+EV0600,2021-09-01,2021,9,Washington,Spokane,Spokane,99201,3,Hyundai,IONIQ 5,2020,Battery Electric Vehicle (BEV),303,41800,Not Eligible,1
