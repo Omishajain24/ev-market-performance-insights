@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EV Market Performance & Insights | Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+:root{--navy:#14243a;--blue:#2878d0;--cyan:#52c7d9;--bg:#f4f7fb;--card:#fff;--text:#26364a;--muted:#718096;--line:#e5ebf3}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--text)}
+header{background:linear-gradient(120deg,#14243a,#1d4f82);color:white;padding:28px clamp(18px,4vw,52px);display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap}
+.eyebrow{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#9ed9ff;font-weight:800}.title{font-size:clamp(23px,3vw,34px);margin:7px 0 5px}.subtitle{color:#d7e6f7;font-size:14px;max-width:700px;line-height:1.5}
+.pill{background:#ffffff18;border:1px solid #ffffff45;padding:9px 13px;border-radius:999px;font-size:12px}
+.wrap{max-width:1450px;margin:auto;padding:24px clamp(14px,3vw,36px) 38px}
+.toolbar{display:flex;gap:12px;flex-wrap:wrap;align-items:end;background:var(--card);padding:16px;border:1px solid var(--line);border-radius:14px;margin-bottom:18px;box-shadow:0 5px 18px #233c5a08}
+.filter{display:flex;flex-direction:column;gap:6px;min-width:145px;flex:1}.filter label{font-size:11px;color:var(--muted);font-weight:800;text-transform:uppercase;letter-spacing:.7px}
+select,input[type=file]{width:100%;border:1px solid #d9e2ed;background:#fff;border-radius:8px;padding:10px;color:var(--text);font-size:13px}
+button{border:0;border-radius:8px;padding:11px 15px;background:var(--blue);color:white;font-weight:700;cursor:pointer}button:hover{filter:brightness(.94)}.secondary{background:#eaf2fc;color:#1b5ea9}
+.status{font-size:12px;color:var(--muted);margin-left:auto;align-self:center}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px;margin-bottom:18px}
+.kpi,.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 5px 18px #233c5a08}
+.kpi{padding:18px}.kpi-top{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:12px;font-weight:700}.kpi-icon{width:34px;height:34px;display:grid;place-items:center;border-radius:10px;background:#eaf4ff;color:var(--blue);font-size:17px}
+.kpi-value{font-size:clamp(23px,2.4vw,31px);font-weight:800;letter-spacing:-.7px;margin:12px 0 4px;color:var(--navy)}.kpi-note{font-size:11px;color:var(--muted)}
+.charts{display:grid;grid-template-columns:1.25fr 1fr;gap:16px;margin-bottom:16px}.panel{padding:18px;min-width:0}.panel-head{display:flex;justify-content:space-between;align-items:start;gap:10px;margin-bottom:14px}.panel h2{font-size:15px;margin:0 0 5px;color:var(--navy)}.panel p{font-size:12px;color:var(--muted);margin:0}.chartbox{height:275px;position:relative}.wide{grid-column:1/-1}
+.table-wrap{overflow:auto;max-height:380px}table{border-collapse:collapse;width:100%;font-size:12px;white-space:nowrap}th,td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--line)}th{position:sticky;top:0;background:#f7faff;color:#52657c;font-size:10px;text-transform:uppercase;letter-spacing:.6px}tbody tr:hover{background:#f7fbff}
+.tag{display:inline-block;border-radius:999px;background:#eaf5ff;color:#1b5ea9;padding:4px 8px;font-size:10px;font-weight:800}
+.note{background:#fff8e8;border:1px solid #f3dfac;color:#75551a;padding:12px 14px;border-radius:10px;font-size:12px;line-height:1.5;margin-bottom:17px}
+footer{text-align:center;color:var(--muted);font-size:11px;padding:18px}
+@media(max-width:850px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.charts{grid-template-columns:1fr}.wide{grid-column:auto}}
+@media(max-width:480px){.kpis{grid-template-columns:1fr 1fr;gap:9px}.kpi{padding:13px}.kpi-value{font-size:22px}.panel{padding:13px}.chartbox{height:245px}.status{width:100%;margin:0}}
+</style>
+</head>
+<body>
+<header>
+  <div><div class="eyebrow">Data Analytics Project</div><h1 class="title">Electric Vehicle Market Performance &amp; Insights</h1><div class="subtitle">Explore registration trends, vehicle types, manufacturers, electric range and geographic distribution across Washington State.</div></div>
+  <div class="pill">Interactive EV Dashboard · v1.0</div>
+</header>
+<main class="wrap">
+  <div class="note"><strong>Dataset note:</strong> This project currently uses synthetic demonstration records for learning and dashboard testing. Treat the results as sample insights, not official real-world market statistics. Replace the CSV with verified official data before making real-world claims.</div>
+  <section class="toolbar">
+    <div class="filter"><label for="yearFilter">Registration year</label><select id="yearFilter"><option value="all">All years</option></select></div>
+    <div class="filter"><label for="typeFilter">EV type</label><select id="typeFilter"><option value="all">All types</option></select></div>
+    <div class="filter"><label for="makeFilter">Manufacturer</label><select id="makeFilter"><option value="all">All manufacturers</option></select></div>
+    <div class="filter"><label for="cityFilter">City</label><select id="cityFilter"><option value="all">All cities</option></select></div>
+    <button class="secondary" id="resetBtn">Reset filters</button>
+    <div class="status" id="status">Loading dataset…</div>
+  </section>
+  <section class="kpis">
+    <article class="kpi"><div class="kpi-top">Vehicle records <span class="kpi-icon">▦</span></div><div class="kpi-value" id="kpiRecords">—</div><div class="kpi-note">Records in current selection</div></article>
+    <article class="kpi"><div class="kpi-top">Manufacturers <span class="kpi-icon">◈</span></div><div class="kpi-value" id="kpiMakes">—</div><div class="kpi-note">Unique makes represented</div></article>
+    <article class="kpi"><div class="kpi-top">Average electric range <span class="kpi-icon">↗</span></div><div class="kpi-value" id="kpiRange">—</div><div class="kpi-note">Miles, excluding zero / missing values</div></article>
+    <article class="kpi"><div class="kpi-top">Average base MSRP <span class="kpi-icon">$</span></div><div class="kpi-value" id="kpiPrice">—</div><div class="kpi-note">USD, excluding zero / missing values</div></article>
+  </section>
+  <section class="charts">
+    <article class="panel"><div class="panel-head"><div><h2>Registration trend</h2><p>Number of records by registration year</p></div><span class="tag">TREND</span></div><div class="chartbox"><canvas id="yearChart"></canvas></div></article>
+    <article class="panel"><div class="panel-head"><div><h2>Vehicle type mix</h2><p>Battery electric vs plug-in hybrid</p></div><span class="tag">MIX</span></div><div class="chartbox"><canvas id="typeChart"></canvas></div></article>
+    <article class="panel"><div class="panel-head"><div><h2>Top manufacturers</h2><p>Most represented makes in the selection</p></div><span class="tag">RANKING</span></div><div class="chartbox"><canvas id="makeChart"></canvas></div></article>
+    <article class="panel"><div class="panel-head"><div><h2>Average electric range by make</h2><p>Top manufacturers by record count</p></div><span class="tag">RANGE</span></div><div class="chartbox"><canvas id="rangeChart"></canvas></div></article>
+    <article class="panel wide"><div class="panel-head"><div><h2>Geographic distribution</h2><p>Vehicle records by city (top 10 in current selection)</p></div><span class="tag">LOCATION</span></div><div class="chartbox"><canvas id="cityChart"></canvas></div></article>
+    <article class="panel wide"><div class="panel-head"><div><h2>Filtered vehicle records</h2><p>Preview of records included in the dashboard</p></div><span class="tag" id="rowCountTag">0 ROWS</span></div><div class="table-wrap"><table><thead><tr><th>Year</th><th>City</th><th>Make</th><th>Model</th><th>EV type</th><th>Range (mi)</th><th>Base MSRP (USD)</th><th>CAFV eligibility</th></tr></thead><tbody id="dataTable"></tbody></table></div></article>
+  </section>
+  <footer>Built for the Electric Vehicle Market Performance &amp; Insights project · HTML, CSS, JavaScript, Chart.js</footer>
+</main>
+<script>
+const CSV_FILE = "EV_Market_Demo_Data.csv";
+let allRows = [], charts = {};
+const colors = ["#2878d0","#52c7d9","#7d8ee8","#49b59b","#f1b95b","#ed8a8a","#8d76c9","#6d9fc5","#d78e5b","#7bbf8b"];
+const $ = id => document.getElementById(id);
+function num(v){const n=Number(String(v??"").replace(/[$,]/g,""));return Number.isFinite(n)?n:0}
+function clean(v){return String(v??"").trim()}
+function unique(key){return [...new Set(allRows.map(r=>clean(r[key])).filter(v=>v && v!=="Unknown"))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}))}
+function fillSelect(id, vals){const s=$(id);for(const v of vals){const o=document.createElement("option");o.value=v;o.textContent=v;s.appendChild(o)}}
+function currentRows(){return allRows.filter(r=>
+ ($("yearFilter").value==="all"||clean(r.Registration_Year)===$("yearFilter").value)&&
+ ($("typeFilter").value==="all"||clean(r.EV_Type)===$("typeFilter").value)&&
+ ($("makeFilter").value==="all"||clean(r.Make)===$("makeFilter").value)&&
+ ($("cityFilter").value==="all"||clean(r.City)===$("cityFilter").value))}
+function groupCount(rows,key){const m={};rows.forEach(r=>{const k=clean(r[key])||"Unknown";m[k]=(m[k]||0)+Math.max(1,num(r.Vehicle_Count))});return m}
+function avg(rows,key){const vals=rows.map(r=>num(r[key])).filter(n=>n>0);return vals.length?vals.reduce((a,b)=>a+b,0)/vals.length:0}
+function money(n){return n?new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n):"—"}
+function destroyCharts(){Object.values(charts).forEach(c=>c.destroy());charts={}}
+function chart(id,type,labels,data,label,opts={}){charts[id]=new Chart($(id),{type,data:{labels,datasets:[{label,data,backgroundColor:type==="line"?"#2878d0":colors,borderColor:type==="line"?"#2878d0":colors,borderWidth:type==="line"?3:1,borderRadius:type==="bar"?5:0,fill:type==="line"?false:undefined,tension:.3,pointRadius:3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:type==="doughnut",position:"bottom",labels:{boxWidth:10,usePointStyle:true,font:{size:10}}}},scales:type==="doughnut"?{}:{x:{grid:{display:false},ticks:{font:{size:10},maxRotation:35}},y:{beginAtZero:true,grid:{color:"#edf1f6"},ticks:{font:{size:10}}}},...opts}})}
+function render(){
+ const rows=currentRows(); const records=rows.reduce((s,r)=>s+Math.max(1,num(r.Vehicle_Count)),0);
+ $("kpiRecords").textContent=records.toLocaleString(); $("kpiMakes").textContent=new Set(rows.map(r=>clean(r.Make)).filter(Boolean)).size;
+ $("kpiRange").textContent=avg(rows,"Electric_Range_Miles")?Math.round(avg(rows,"Electric_Range_Miles")).toLocaleString()+" mi":"—";
+ $("kpiPrice").textContent=money(avg(rows,"Base_MSRP_USD"));
+ $("status").textContent=`Showing ${rows.length.toLocaleString()} of ${allRows.length.toLocaleString()} records`;
+ $("rowCountTag").textContent=`${rows.length} ROWS`;
+ const years=groupCount(rows,"Registration_Year"), types=groupCount(rows,"EV_Type"), makes=groupCount(rows,"Make"), cities=groupCount(rows,"City");
+ const topMakes=Object.entries(makes).sort((a,b)=>b[1]-a[1]).slice(0,8);
+ const topCities=Object.entries(cities).sort((a,b)=>b[1]-a[1]).slice(0,10);
+ const rangeByMake=topMakes.map(([m])=>{const rs=rows.filter(r=>clean(r.Make)===m);return rs.length?Math.round(avg(rs,"Electric_Range_Miles")):0});
+ destroyCharts();
+ chart("yearChart","line",Object.keys(years).sort((a,b)=>Number(a)-Number(b)),Object.keys(years).sort((a,b)=>Number(a)-Number(b)).map(y=>years[y]),"Records");
+ chart("typeChart","doughnut",Object.keys(types),Object.values(types),"Records",{cutout:"62%"});
+ chart("makeChart","bar",topMakes.map(x=>x[0]),topMakes.map(x=>x[1]),"Records",{indexAxis:"y",scales:{x:{beginAtZero:true,grid:{color:"#edf1f6"}},y:{grid:{display:false}}}});
+ chart("rangeChart","bar",topMakes.map(x=>x[0]),rangeByMake,"Average range (miles)",{scales:{x:{grid:{display:false}},y:{beginAtZero:true,grid:{color:"#edf1f6"}}}});
+ chart("cityChart","bar",topCities.map(x=>x[0]),topCities.map(x=>x[1]),"Records",{indexAxis:"y",scales:{x:{beginAtZero:true,grid:{color:"#edf1f6"}},y:{grid:{display:false}}}});
+ const tbody=$("dataTable");tbody.innerHTML="";
+ rows.slice(0,100).forEach(r=>{const tr=document.createElement("tr");[r.Registration_Year,r.City,r.Make,r.Model,r.EV_Type, num(r.Electric_Range_Miles)||"—",num(r.Base_MSRP_USD)?money(num(r.Base_MSRP_USD)):"—",r.CAFV_Eligibility].forEach(v=>{const td=document.createElement("td");td.textContent=clean(v)||"—";tr.appendChild(td)});tbody.appendChild(tr)});
+ if(rows.length===0)tbody.innerHTML='<tr><td colspan="8">No records match these filters.</td></tr>';
+}
+function setup(){fillSelect("yearFilter",unique("Registration_Year"));fillSelect("typeFilter",unique("EV_Type"));fillSelect("makeFilter",unique("Make"));fillSelect("cityFilter",unique("City"));["yearFilter","typeFilter","makeFilter","cityFilter"].forEach(id=>$(id).addEventListener("change",render));$("resetBtn").addEventListener("click",()=>{["yearFilter","typeFilter","makeFilter","cityFilter"].forEach(id=>$(id).value="all");render()});render()}
+Papa.parse(CSV_FILE,{download:true,header:true,skipEmptyLines:true,dynamicTyping:false,complete:r=>{allRows=r.data.filter(x=>clean(x.Record_ID)||clean(x.Make));if(!allRows.length){$("status").textContent="CSV loaded, but no usable records were found."}else setup()},error:()=>{$("status").textContent="Could not load CSV. Open this page from GitHub Pages or keep the CSV beside dashboard.html."}});
+</script>
+</body>
+</html>
